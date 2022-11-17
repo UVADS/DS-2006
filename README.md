@@ -3,10 +3,12 @@
 Your Mathematics for Data Science Tour Guides:
 
     * Professor Thomas Stewart
-    * Emails: vzm6dw@virginia.edu
+    * Emails: thomas.stewart@virginia.edu
     * TA: 
     * Peer Mentors: 
     * Class Location: 
+
+## Instruction & Office hours
 
 Professor Office Hours:
 
