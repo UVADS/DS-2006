@@ -1,82 +1,112 @@
-# DS 2006: Computational Probability 
+# DS 2006: Computational Probability
+# YEAR, TERM 
 
-Your Mathematics for Data Science Tour Guides:
+## Overview
 
-    * Professor Thomas Stewart
-    * Emails: thomas.stewart@virginia.edu
-    * TA: 
-    * Peer Mentors: 
-    * Class Location: 
+This course is all about variation, uncertainty, and randomness.  Students will learn the vocabulary of uncertainty and the mathematical and computational tools to understand and describe it.
+
+## Instructor
+
+[Thomas Stewart](https://tgstewart.xyz)  
+Elson Building, 400 Brandon Ave, Room 156  
+thomas.stewart@virginia.edu  
+Github: thomasgstewart
+
+# Teaching assistants
 
 ## Instruction & Office hours
 
-Professor Office Hours:
+**Format of the class:** In-class time will be a combination of lectures, group assignments, live coding, and student presentations.  **Please note:** Circumstances may require the face-to-face portion of the class to be online.
 
-TA Office Hours 
+**Time:** 
 
-Course Materials: 
+**Office Hours:**  
 
-Subject Area and Catalog Number: Data Science, DS 2006
+**TA Office Hours:**  
 
-Year, Term and Time: 2023, Fall, TBD 
+## Textbooks 
 
-Level: Undergraduate
+## Computing
 
-Credit Type: Grade (A-F) 
+The course will be taught using XX
 
-<br>
+## Learning objectives
 
-## A Little Bit About the Course
- 
+This course covers the fundamentals of probability theory and stochastic processes. The goal of the course is that students will become conversant in the tools of probability.  At the end of the course, students should be able to clearly describe and implement concepts related to random variables, properties of probability, distributions, expectations, moments, transformations, model fit, basic inference, sampling distributions, discrete and continuous time Markov chains, and Brownian motion.  The course will illustrate most topics with both analytic and computational solutions.
 
-## What you’ll learn along the way
+## Final Exam
 
-...... Specific learning objectives are below (example from Foundations of ML):
+The final exam will XX.
 
-    Be able to describe the field of Data Science and its emerging sub-fields
-    Gain experience working in teams to solve Data Science problems
-    Gain experience communicating Data Science products
-    Articulate the advantages and disadvantages of selected ML approaches
-    Be able to select appropriate ML models given problems and data types
-    Understand the importance of and methods for evaluating ML models
-    Understand the negative outcomes associated with ML/AI bias and how they can be avoided
+## Deliverables and Problem sets
 
-The course will move rather quickly and can be demanding at times. However, if we all work together to support each other you’ll be amazed how much you learn at the end of the semester!
-
-
-## How You’ll Know You Are Learning (Assessments)
+There will be XX assignments.  Some of the assignments will be traditional problem sets.  Others will be more substantial projects requiring you to perform a simulation and summarize findings in a blog format.  Each assignment will be graded on a pass/fail basis. Students will have opportunities to resubmit each assignment multiple times within a 2 week window after of initial feedback.
 
 ## Tech Stack (Course Delivery Tools)
 
-**[Discord Invite Click]()** 
-
-## Materials That Will Aid in Your Learning (Try to use free materials): 
-
-* A. [Weapons of Math Destruction](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
-* B. 
-
 ## Schedule of Topics 
 
-***NOTE: depending on student interest, the syllabus can be adjusted to accommodate additional topics
-
-| Week 	| Theme 	| Topics 	| Lab 	| Reading/Repo (Prior to Class) 	|
-|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Week 1 	| 	|  	| 	| 	|
-| Week 2 	|  	|   |   | 	|
-| Week 3 	|	  | 	|	  |  	|
-| Week 4 	|	  |	  |   | 	|
-| Week 5  |   |   |   |   | 
-| Week 6	| 	|   |   |   |
-| Week 7  |   | 	|   |  	|
-| Week 8  |   |  	| 	| 	|
-| Week 9  |  	|  	|	  | 	|
-| Week 10 |  	|  	|	  | 	|
-| Week 11 |  	| 	|   |   |
-| Week 12 |	  |   |	  | 	|
-| Week 13 |   |  	|   |   |
-| Week 14 |   |   |   |   |
-| Week 15 | 	| 	|   |   |
-| Week 16 | 	|  	|  	|  	|
+| Topic | Slides | Textbook sections | Whiteboards | Videos |
+|---|:---:|:---:|---|---|
+| Class logistics | | | | |
+| **Overview** | | | | |
+| **Definitions of Probability** |  | | | |
+| **Simulation & Operating Characteristics** | | | | |
+| **Basic Probability Ideas** | | | | |
+|  → Belief vs Frequency  | | | | |
+|  → Notebook / data.frame definition  |  | | | |
+|  → And, Or  | | | | |
+|  → Conditional Probability | | | | |
+|  → Law of Total Probability | | | | |
+|  → Bayes Rule | |  | | |
+|  → Random variable | | | | |
+| **Discrete Probability Models** | | | | |
+| → Probability Mass Function | | | | |
+| → Bernouli Random Variables | | | | |
+| → Binomial Random Variables | | | | |
+| → Negative Binomial Random Variables | | | | |
+| → Poisson Random Variables | | | | |
+| **Continuous Probability Models** | | | | |
+| → Cumulative Distribution Function | | | | |
+| → Probability Density Function | | | | |
+| → Uniform Random Variables  | | | | |
+| → Normal Random Variables  | | | | |
+| → Exponential Random Variables  | | | | |
+| → Gamma Random Variables  | | | | |
+| → Beta Random Variables  | | | | |
+| → Mixture Distributions  | | | | |
+| **Expectation and Variance** | | | | |
+| → Data Types | | | | |
+| → Categorical, Ordinal, Interval, and Ratio Variables | | | | |
+| → Covariance | | | | |
+| **Transformations of individual observations** | | | | |
+| **Transformations of samples** | | | | |
+| → Min and Max | | | | |
+| → Quantiles | | | | |
+| → Order Statistics | | | | |
+| → Sampling distributions | | | | |
+| **Methods of Fitting Models** | | | | |
+| → QQ-plot | | | | |
+| → Method of moments | | | | |
+| → Maximum likelihood | | | | |
+| → Bayesian | | | | |
+| → Kernel Density Estimation | | | | |
+| **Sampling Distributions from Fitted Models** | | | | |
+| → Bootstrap | | | | |
+| → Simulation | | | | |
+| → Central Limit Theorem | | | | |
+| **Simulation** | | | | |
+| → Parallel Computing | | | | |
+| → Batch processing on the cloud| | | | |
+| **Brief introduction to inference** | | | | |
+| → Sampling and Inference | | | | |
+| → Inference with CI | | | | |
+| → Inference with Hypothsis testing | | | | |
+| **Multivariate Normal Distribution** | | | | |
+| → Properties | | | | |
+| → Correlation | | | | |
+| → Conditional Distribution | | | | |
+| → Marginal Distribution | | | | |
 
 ## A few Policies that will Govern the Class
 
