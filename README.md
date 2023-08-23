@@ -1,5 +1,4 @@
-# DS 2006: Computational Probability
-# 2023 Fall 
+# Computational Probability, Fall 2023
 
 ## Overview
 
@@ -12,7 +11,7 @@ Elson Building, 400 Brandon Ave, Room 156
 thomas.stewart@virginia.edu  
 Github: thomasgstewart
 
-# Teaching assistants
+## Teaching assistants
 
 Ethan Nelson  
 Graduate student in Data Science  
