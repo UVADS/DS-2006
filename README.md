@@ -1,5 +1,5 @@
 # DS 2006: Computational Probability
-# YEAR, TERM 
+# 2023 Fall 
 
 ## Overview
 
@@ -14,21 +14,45 @@ Github: thomasgstewart
 
 # Teaching assistants
 
+Ethan Nelson  
+Graduate student in Data Science  
+ean8fr@virginia.edu  
+Github: TBD  
+
 ## Instruction & Office hours
 
 **Format of the class:** In-class time will be a combination of lectures, group assignments, live coding, and student presentations.  **Please note:** Circumstances may require the face-to-face portion of the class to be online.
 
-**Time:** 
+**Time:** MWF, 9 - 9:50am, Dell 1 Room 105  
 
-**Office Hours:**  
+**Office Hours:**  MWF, 10am, Dell 1 Commons  
 
-**TA Office Hours:**  
+**TA Office Hours:**  Thursdays, 11am, Dell 1 Commons  
 
 ## Textbooks 
 
+The following textbooks are freely available online via the UVA library.
+
+[Understanding uncertainty](https://ebookcentral.proquest.com/lib/uva/reader.action?docID=1574353)
+by Dennis V. Lindley  
+
+[Understanding Probability, 3rd edition](https://ebookcentral.proquest.com/lib/uva/reader.action?docID=944763)  
+by Henk Tijms  
+
+[Introduction to Probability: Models and Applications](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119549345)  
+by N. Balakrishnan, Markos V. Koutras, Konstadinos G. Politis  
+
+The following textbooks may also be helpful.
+
+Probability and Statistics for Data Science  
+by Norman Matloff  
+
+Introduction to Probability Models  
+by Sheldon M. Ross  
+
 ## Computing
 
-The course will be taught using XX
+The course will be taught using R.
 
 ## Learning objectives
 
@@ -36,13 +60,21 @@ This course covers the fundamentals of probability theory and stochastic process
 
 ## Final Exam
 
-The final exam will XX.
+The final exam will be a 20-30 minute one-on-one oral exam with the instructor recorded in Zoom. Prior to the exam, a set of practice questions will be provided, with the expectation that students will prepare for the oral exam by coding-up solutions and writing explanations. During the oral exam, the instructor will ask a series of questions covering topics from the course and the practice questions. For example, the instructor may ask:
+
+* Please explain how you solved a particular question in the practice set.
+* Please solve a new question (perhaps closely related to a question in the practice set).  
+* Please explain course topic X.  
+
+Students will be graded on both the accuracy of their responses and the clarity with which they explain course concepts and solutions to questions. The final exam will occur on 14 December 2023. Students will sign up for oral exam slots in early December.
 
 ## Deliverables and Problem sets
 
-There will be XX assignments.  Some of the assignments will be traditional problem sets.  Others will be more substantial projects requiring you to perform a simulation and summarize findings in a blog format.  Each assignment will be graded on a pass/fail basis. Students will have opportunities to resubmit each assignment multiple times within a 2 week window after of initial feedback.
+Some of the assignments will be traditional problem sets.  Others will be more substantial projects requiring you to perform a simulation and summarize findings in a blog format.  Each assignment will be graded on a pass/fail basis. Students will have opportunities to resubmit each assignment multiple times within a 2 week window after of initial feedback.
 
-## Tech Stack (Course Delivery Tools)
+| Deliverable | First Submission Due Date | Resubmission Due Date |
+|---|:---:|---|
+| 0. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/00-getting-started.md">Student Profile (not graded)</a> | 2023-08-28 | Not available |
 
 ## Schedule of Topics 
 
@@ -53,7 +85,7 @@ There will be XX assignments.  Some of the assignments will be traditional probl
 | **Definitions of Probability** |  | | | |
 | **Simulation & Operating Characteristics** | | | | |
 | **Basic Probability Ideas** | | | | |
-|  → Belief vs Frequency  | | | | |
+|  → Belief vs Frequency vs Information  | | | | |
 |  → Notebook / data.frame definition  |  | | | |
 |  → And, Or  | | | | |
 |  → Conditional Probability | | | | |
@@ -108,7 +140,7 @@ There will be XX assignments.  Some of the assignments will be traditional probl
 | → Conditional Distribution | | | | |
 | → Marginal Distribution | | | | |
 
-## A few Policies that will Govern the Class
+## Grading
 
 Grading Policies: Courses carrying a Data Science subject area use the following grading system: A, A-; B+, B, B-; C+, C, C-; D+, D, D-; F.  The symbol W is used when a student officially drops a course before its completion or if the student withdraws from an academic program of the University.
 
@@ -124,13 +156,18 @@ Grading Scale:
  - 70-72 C- 
  - <70 F
 
-University of Virginia Honor System: All work should be pledged in the spirit of the Honor System at the University of Virginia. The instructor will indicate which assignments and activities are to be done individually and which permit collaboration. The following pledge should be written out at the end of all quizzes, examinations, individual assignments, and papers:  “I pledge that I have neither given nor received help on this examination (quiz, assignment, etc.)”.  The pledge must be signed by the student. For more information, visit www.virginia.edu/honor.
+ Grades will be a weighted average of the final exam score (50%) and the deliverables score (50%).  As deliverables are graded on a pass/fail basis, the deliverable score will be the percentage of deliverables which earn a pass.  For example, a student that earns an 90 on the final and passes 8 of 10 deliverables will earn 90*.5 + 80*.5 = 85 which is a B.
 
+## Adjustments
 
-Special Needs:  The University of Virginia accommodates students with disabilities. Any SCPS student with a disability who needs accommodation (e.g., in arrangements for seating, extended time for examinations, or note-taking, etc.), should contact the Student Disability Access Center (SDAC) and provide them with appropriate medical or psychological documentation of his/her condition. Once accommodations are approved, just follow up with me concerning any logistics and implementation of accommodations.  Please try to make accommodations for test-taking at least 14 business days in advance of the date of the test(s). Students with disabilities are encouraged to contact the SDAC: 434-243-5180/Voice, 434-465-6579/Video Phone, 434-243-5188/Fax. Further policies and statements are available at www.virginia.edu/studenthealth/sdac/sdac.html
+The instructor may alter the course content and grading policies during the semester.
 
-Technical Support Contacts
+## Collaborative learning
 
-    Login/Password: scpshelpdesk@virginia.edu
-    UVaCollab: collab-support@virginia.edu
-    BbCollaborate Support: http://www.tinyurl.com/uvabbc
+Students are encouraged to study together.  The instructions for each assignment will indicate if and how students may work together on the deliverable.  Students should not collaborate on the final exam.  Students that violate the collaborative-work policy on an assignment will fail the assignment in question and forfeit the opportunity to retake or resubmit.  Students that violate the collaborative-work policy on the final exam will fail all sections of the final exam and forfeit the opportunity to retake or resubmit.  Students may be referred to UVA Honor Committee.
+
+University of Virginia Honor System: All work should be pledged in the spirit of the Honor System at the University of Virginia.  The following pledge should be written out at the end of all quizzes, examinations, individual assignments, and papers:  “I pledge that I have neither given nor received help on this examination (quiz, assignment, etc.)”.  The pledge must be signed by the student. For more information, visit www.virginia.edu/honor.
+
+## Accomodations
+
+UVA is committed to creating a learning environment that meets the needs of its diverse student body. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me. If you have a disability, or think you may have a disability, you may also want to meet with the Student Disability Access Center (SDAC), to request an official accommodation. You can find more information about SDAC, including how to apply online, through their website at www.studenthealth.virginia.edu/SDAC. If you have already been approved for accommodations through SDAC, please make sure to send me your accommodation letter and meet with me so we can develop an implementation plan together.
