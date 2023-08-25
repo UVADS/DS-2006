@@ -74,7 +74,8 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | Deliverable | First Submission Due Date | Resubmission Due Date |
 |---|:---:|---|
 | 0. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/00-getting-started.md">Student Profile (not graded)</a> | 2023-08-28 | Not available |
-| 1. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/01-examples-of-uncertainty.md">Uncertainty</a> | | Not available |
+| 1. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/01-examples-of-uncertainty.md">Uncertainty</a> | | |
+| 2. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/02-calculus-of-belief.md">Calculus of belief</a> | | |
 
 ## Schedule of Topics 
 
