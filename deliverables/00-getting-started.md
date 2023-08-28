@@ -9,13 +9,13 @@ In this assignment, you will create a GitHub repository for the course.
 1. Navigate to Settings then Collaborators.  (You may have to re-enter your password.)
 1. Click "Add people" and add thomasgstewart and eanelson01
 
-Once your repository is created, you will submit a practice deliverable via GitHub.  Like all the deliverables, this one will be a blog post. 
+Once your repository is created, you will submit a practice deliverable via GitHub.  Like many of the deliverables, this one will be a blog post. 
 
 -   The audience of your blog post is the University of Virginia Data Science community.
 
--   Your post will be a brief profile about a fellow student (assigned randomly to you in class).
+-   Your post will be a brief profile about yourself.
 
--   The profile can include professional details (What was their journey to data science?), and it can also include informal details such as hobbies, hometown, favorite books/movies/artists, etc. 
+-   The profile can include professional details (What was your journey to data science?), and it can also include informal details such as hobbies, hometown, favorite books/movies/artists, etc. 
 
 ### Submission instructions
 
