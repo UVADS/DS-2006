@@ -16,7 +16,7 @@ Github: thomasgstewart
 Ethan Nelson  
 Graduate student in Data Science  
 ean8fr@virginia.edu  
-Github: TBD  
+Github: eanelson01  
 
 ## Instruction & Office hours
 

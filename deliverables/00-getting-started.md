@@ -7,7 +7,7 @@ In this assignment, you will create a GitHub repository for the course.
 1. Name your repository ds2006-lastname-firstname.  For example, mine would be called ds2006-stewart-thomas.
 1. Make the repository private by clicking the toggle next to the lock icon labeled "Private".
 1. Navigate to Settings then Collaborators.  (You may have to re-enter your password.)
-1. Click "Add people" and add thomasgstewart and 
+1. Click "Add people" and add thomasgstewart and eanelson01
 
 Once your repository is created, you will submit a practice deliverable via GitHub.  Like all the deliverables, this one will be a blog post. 
 
