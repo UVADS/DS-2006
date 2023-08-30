@@ -73,9 +73,11 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 
 | Deliverable | First Submission Due Date | Resubmission Due Date |
 |---|:---:|---|
-| 0. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/00-getting-started.md">Getting started with Github (not graded)</a> |  |  |
-| 1. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/01-examples-of-uncertainty.md">Uncertainty</a> | | |
-| 2. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/02-calculus-of-belief.md">Calculus of belief</a> | | |
+| 0. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/00-getting-started.md">Getting started with Github (not graded)</a> | None |  |
+| 1. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/01-examples-of-uncertainty.md">Uncertainty</a> | 2023-09-01 | |
+| 2. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/02-calculus-of-belief.md">Calculus of belief</a> | 2023-09-01 | |
+| 3. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/03-birthday-problem.md">Birthday problem</a> | 2023-09-06 | |
+| 4. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/04-two-events.md">Two events</a> | 2023-09-06 | |
 
 ## Schedule of Topics 
 
@@ -84,6 +86,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | Class logistics | | | | |
 | **Overview** | | | | |
 | **Definitions of Probability** |  | | | |
+| ** Intro to R** | <a class = "callink" href = "https://tgstewart.cloud/into-r.pptx"> Getting R</a> | | | |
 | **Simulation & Operating Characteristics** | | | | |
 | **Basic Probability Ideas** | | | | |
 |  → Belief vs Frequency vs Information  | | | | |
