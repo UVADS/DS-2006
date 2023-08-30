@@ -25,7 +25,7 @@ Here is the data from the in-class survey about soft drinks which you will use i
 | **Regular**     |  N (p)    |    N (p)     |
 | **No sugar/Diet** | N (p)    |    N (p)      |
 
-2. Add to the table conditional column and row proportions and counts. With sugar preferences on the rows, the conditional row probabilities are $P(\text{Drink}|\text{Sugar})$.  Likewise, with drink preferences on the columns, conditional column probabilities are $P(\text{Sugar}|\text{Drink})$.
+2. Add to the table conditional column and row proportions and counts. With sugar preferences on the rows, the conditional row proportions are $P(\text{Drink}|\text{Sugar})$.  Likewise, with drink preferences on the columns, conditional column proportions are $P(\text{Sugar}|\text{Drink})$.
 3. Add marginal proportions and counts.  The final table will look something like this:
 
 |             | Colas       |   Not Colas | Total  |
