@@ -3,14 +3,29 @@ Two Events
 
 Please read sections 4.1 and 4.2 of Understanding Uncertainty.
 
-1. Use the data below to generate a contingency table of counts and proportions.
+Here is the data from the in-class survey about soft drinks which you will use in the following problems.
+
+| Drink preference | Sugar preference |
+| ---------------- | ---------------- |
+| Something else | Regular |
+| Something else | Regular |
+| Cola (Coke, Pepsi, etc) | Zero sugar or Diet |
+| Something else | Regular |
+| Something else | Regular |
+| Cola (Coke, Pepsi, etc) | Zero sugar or Diet |
+| Something else | Regular |
+| Something else | Zero sugar or Diet |
+| Cola (Coke, Pepsi, etc) | Regular |
+| Cola (Coke, Pepsi, etc) | Zero sugar or Diet |
+
+1. Use the data to generate a contingency table of counts and proportions. Report counts with proportions in parentheses, for example `23 (0.39)`.  (This is what is meant by  `N (p)`.)
 
 |             | Colas       |   Not Colas |
 | ----------- | ----------- | ----------- |
 | **Regular**     |  N (p)    |    N (p)     |
 | **No sugar/Diet** | N (p)    |    N (p)      |
 
-2. Add to the table conditional column and row proportions and counts.  
+2. Add to the table conditional column and row proportions and counts. With sugar preferences on the rows, the conditional row probabilities are $P(\text{Drink}|\text{Sugar})$.  Likewise, with drink preferences on the columns, conditional column probabilities are $P(\text{Sugar}|\text{Drink})$.
 3. Add marginal proportions and counts.  The final table will look something like this:
 
 |             | Colas       |   Not Colas | Total  |
