@@ -86,7 +86,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | Class logistics | | | | |
 | **Overview** | | | | |
 | **Definitions of Probability** |  | | | |
-| ** Intro to R** | <a class = "callink" href = "https://tgstewart.cloud/into-r.pptx"> Getting R</a> | | | |
+| **Intro to R** | <a class = "callink" href = "https://tgstewart.cloud/into-r.pptx"> Getting R</a> | | | |
 | **Simulation & Operating Characteristics** | | | | |
 | **Basic Probability Ideas** | | | | |
 |  → Belief vs Frequency vs Information  | | | | |
