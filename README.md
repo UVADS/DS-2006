@@ -78,6 +78,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 2. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/02-calculus-of-belief.md">Calculus of belief</a> | 2023-09-01 | |
 | 3. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/03-birthday-problem.md">Birthday problem</a> | 2023-09-04 | |
 | 4. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/04-two-events.md">Two events</a> | 2023-09-06 | |
+| 5. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/05-independence.md">Independence</a> | 2023-09-08 | |
 
 ## Schedule of Topics 
 
