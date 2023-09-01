@@ -67,6 +67,22 @@ The final exam will be a 20-30 minute one-on-one oral exam with the instructor r
 
 Students will be graded on both the accuracy of their responses and the clarity with which they explain course concepts and solutions to questions. The final exam will occur on 14 December 2023. Students will sign up for oral exam slots in early December.
 
+## Reading Schedule
+
+Each class will have an assigned reading.  Each reading is paired with a deliverable.  Please read the assigned material and make a good-faith effort on the deliverable before class.
+
+| Symbol | Text |
+|---|---|
+| UU | Understanding Uncertainty |
+
+| Class period | Material | Deliverable |
+|---|---|---|
+| Fri, 2023-09-01 | UU 4.1, 4.2 | 4 |
+| Mon, 2023-09-04 | UU 4.3 to 4.7 | 5 | 
+| Wed, 2023-09-06 | UU 5.1 to 5.5 | 6 |
+| Fri, 2023-09-08 | UU 5.6 to 5.13 | |
+| Mon, 2023-09-11 | UU 6.1 to 6.4 | |
+
 ## Deliverables and Problem sets
 
 Some of the assignments will be traditional problem sets.  Others will be more substantial projects requiring you to perform a simulation and summarize findings in a blog format.  Each assignment will be graded on a pass/fail basis. Students will have opportunities to resubmit each assignment multiple times within a 2 week window after of initial feedback.
@@ -79,6 +95,9 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 3. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/03-birthday-problem.md">Birthday problem</a> | 2023-09-04 | |
 | 4. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/04-two-events.md">Two events</a> | 2023-09-06 | |
 | 5. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/05-independence.md">Independence</a> | 2023-09-08 | |
+| 6. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/06-basic-rule-of-probability.md">Basic rules</a> | 2023-09-08 | |
+
+
 
 ## Schedule of Topics 
 
