@@ -96,7 +96,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 4. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/04-two-events.md">Two events</a> | 2023-09-06 | |
 | 5. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/05-independence.md">Independence</a> | 2023-09-08 | |
 | 6. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/06-basic-rule-of-probability.md">Basic rules</a> | 2023-09-11 | |
-| 7. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/05-more-probability.md">More rules</a> | 2023-09-13 | |
+| 7. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/07-more-probability.md">More rules</a> | 2023-09-13 | |
 
 ## Schedule of Topics 
 
