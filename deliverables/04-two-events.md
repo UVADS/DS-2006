@@ -20,23 +20,23 @@ Here is the data from the in-class survey about soft drinks which you will use i
 
 1. Use the data to generate a contingency table of counts and proportions. Report counts with proportions in parentheses, for example `23 (0.39)`.  (This is what is meant by  `N (p)`.)
 
-|             | Colas       |   Not Colas |
-| ----------- | ----------- | ----------- |
-| **Regular**     |  N (p)    |    N (p)     |
-| **No sugar/Diet** | N (p)    |    N (p)      |
+|                   | Colas     |   Not Colas |
+| ----------------- | --------- | ----------- |
+| **Regular**       |  N (p)    |    N (p)    |
+| **No sugar/Diet** | N (p)     |    N (p)    |
 
 2. Add to the table conditional column and row proportions and counts. With sugar preferences on the rows, the conditional row proportions are $P(\text{Drink}|\text{Sugar})$.  Likewise, with drink preferences on the columns, conditional column proportions are $P(\text{Sugar}|\text{Drink})$.
 3. Add marginal proportions and counts.  The final table will look something like this:
 
-|             | Colas       |   Not Colas | Total  |
-| ----------- | ----------- | ----------- | ----------- |
-| **Regular**     |  N (p)    |    N (p)     | N (p) |
-| &nbsp;&nbsp;&nbsp; Row     |  N (p)    |    N (p)     | |
-| &nbsp;&nbsp;&nbsp; Col     |  N (p)    |    N (p)     | |
-| **No sugar/Diet** | N (p)    |    N (p)      | N (p) |
-| &nbsp;&nbsp;&nbsp; Row     |  N (p)    |    N (p)     | |
-| &nbsp;&nbsp;&nbsp; Col     |  N (p)    |    N (p)     | |
-| Total | N (p)    |    N (p)     | N (p) |
+|                            | Colas       |   Not Colas | Total  |
+| -------------------------- | ----------- | ----------- | -------|
+| **Regular**                |  N (p)      |    N (p)     | N (p) |
+| &nbsp;&nbsp;&nbsp; Row     |  N (p)      |    N (p)     |       |
+| &nbsp;&nbsp;&nbsp; Col     |  N (p)      |    N (p)     |       |
+| **No sugar/Diet**          |  N (p)      |    N (p)     | N (p) |
+| &nbsp;&nbsp;&nbsp; Row     |  N (p)      |    N (p)     |       |
+| &nbsp;&nbsp;&nbsp; Col     |  N (p)      |    N (p)     |       |
+| Total                      |  N (p)      |    N (p)     | N (p) |
 
 
 ### Submission instructions
