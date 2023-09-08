@@ -81,7 +81,9 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 | Mon, 2023-09-04 | UU 4.3 to 4.7 | 5 | 
 | Wed, 2023-09-06 | UU 5.1 to 5.5 | 6 |
 | Fri, 2023-09-08 | UU 5.6 to 5.13 | 7 |
-| Mon, 2023-09-11 | UU 6.1 to 6.4 | |
+| Mon, 2023-09-11 | UU 6.1 to 6.4 | 8 |
+| Wed, 2023-09-13 | UU 6.5 to 6.9 |  |
+| Fri, 2023-09-15 | UU 6.10 to 6.12 |  |
 
 ## Deliverables and Problem sets
 
@@ -97,6 +99,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 5. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/05-independence.md">Independence</a> | 2023-09-08 | |
 | 6. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/06-basic-rule-of-probability.md">Basic rules</a> | 2023-09-11 | |
 | 7. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/07-more-probability.md">More rules</a> | 2023-09-13 | |
+| 8. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/08-bayes-rule.md">Bayes rule</a> | 2023-09-15 | |
 
 ## Schedule of Topics 
 
