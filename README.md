@@ -109,6 +109,8 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | **Overview** | | | | |
 | **Definitions of Probability** |  | | | |
 | **Intro to R** | <a class = "callink" href = "https://tgstewart.cloud/into-r.pptx"> Getting R</a> | | | |
+|  → Markdown | <a href="https://www.markdownguide.org/cheat-sheet/">Cheatsheet</a> | | | |
+|  → Rmarkdown | <a href="https://tgstewart.cloud/rmd-example.rmd">Example input</a><br><a href="https://tgstewart.cloud/rmd-example.html">Example output</a> | | | |
 | **Simulation & Operating Characteristics** | | | | |
 | **Basic Probability Ideas** | | | | |
 |  → Belief vs Frequency vs Information  | | | | |
