@@ -115,10 +115,10 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | **Basic Probability Ideas** | | | | |
 |  → Belief vs Frequency vs Information  | | | | |
 |  → Notebook / data.frame definition  |  | | | |
-|  → And, Or  | | | | |
-|  → Conditional Probability | | | | |
-|  → Law of Total Probability | | | | |
-|  → Bayes Rule | |  | | |
+|  → And, Or  | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) | | | |
+|  → Conditional Probability | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) | | | |
+|  → Law of Total Probability | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) | | | |
+|  → Bayes Rule | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) |  | | |
 |  → Random variable | | | | |
 | **Discrete Probability Models** | | | | |
 | → Probability Mass Function | | | | |
