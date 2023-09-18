@@ -103,8 +103,8 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 6. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/06-basic-rule-of-probability.md">Basic rules</a> | 2023-09-11 | |
 | 7. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/07-more-probability.md">More rules</a> | 2023-09-13 | |
 | 8. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/08-bayes-rule.md">Bayes rule</a> | 2023-09-15 | |
-| 9. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/09-bayes-rule-more-practice.md">Bayes rule, more practice</a> | 2023-09-15 | |
-| 10. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/10-diagnostic-odds.md">Diagnostic odds</a> | 2023-09-15 | |
+| 9. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/09-bayes-rule-more-practice.md">Bayes rule, more practice</a> | 2023-09-18 | |
+| 10. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/10-diagnostic-odds.md">Diagnostic odds</a> | 2023-09-20 | |
 
 ## Schedule of Topics 
 
