@@ -93,7 +93,7 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 Some of the assignments will be traditional problem sets.  Others will be more substantial projects requiring you to perform a simulation and summarize findings in a blog format.  Each assignment will be graded on a pass/fail basis. Students will have opportunities to resubmit each assignment multiple times within a 2 week window after of initial feedback.
 
 | Deliverable | First Submission Due Date | Resubmission Due Date |
-|---|:---:|---|
+|---|:---:|:---:|
 | 0. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/00-getting-started.md">Getting started with Github (not graded)</a> | None |  |
 | 1. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/01-examples-of-uncertainty.md">Uncertainty</a> | 2023-09-01 | 2023-10-02 |
 | 2. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/02-calculus-of-belief.md">Calculus of belief</a> | 2023-09-01 | 2023-10-02 |
