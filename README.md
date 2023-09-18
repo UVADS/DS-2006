@@ -124,6 +124,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 |  → Conditional Probability | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) | | | |
 |  → Law of Total Probability | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) | | | |
 |  → Bayes Rule | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) |  | | |
+|  → Diagnostics | [Diagnostics](https://tgstewart.cloud/diagnostics.pptx) | | | |
 |  → Random variable | | | | |
 | **Discrete Probability Models** | | | | |
 | → Probability Mass Function | | | | |
