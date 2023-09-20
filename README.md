@@ -86,7 +86,7 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 | Fri, 2023-09-15 | UU 6.10 to 6.12 | Catch up |
 | Mon, 2023-09-18 |  | 9 |
 | Wed, 2023-09-20 |  | 10 |
-| Fri, 2023-09-22 |  | 11 |
+| Fri, 2023-09-22 | UU 7.1 to 7.3 | 11 |
 
 
 ## Deliverables and Problem sets
