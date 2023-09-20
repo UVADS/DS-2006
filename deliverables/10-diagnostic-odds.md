@@ -1,4 +1,4 @@
-Bayes Rule, More practice
+Diagnostics and Screening
 ========
 
 Please read sections 6.5 through 6.10 of Understanding Probability.
