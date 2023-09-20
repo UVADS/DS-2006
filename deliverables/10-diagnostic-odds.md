@@ -1,7 +1,7 @@
 Diagnostics and Screening
 ========
 
-Please read sections 6.5 through 6.10 of Understanding Probability.
+Please read sections 6.5 through 6.10 of Understanding Uncertainty.
 
 1. Consider a cancer screening device.  Supposing that $P(\text{Cancer}) = p$, $P(+|\text{cancer}) = tp$, and $P(-|\text{not cancer}) = tn$, complete the following table with expressions of all joint, marginal, and conditional probabilities.
 

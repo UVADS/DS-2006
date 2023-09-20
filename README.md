@@ -86,6 +86,7 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 | Fri, 2023-09-15 | UU 6.10 to 6.12 | Catch up |
 | Mon, 2023-09-18 |  | 9 |
 | Wed, 2023-09-20 |  | 10 |
+| Fri, 2023-09-22 |  | 11 |
 
 
 ## Deliverables and Problem sets
@@ -105,6 +106,9 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 8. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/08-bayes-rule.md">Bayes rule</a> | 2023-09-15 | 2023-10-03 |
 | 9. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/09-bayes-rule-more-practice.md">Bayes rule, more practice</a> | 2023-09-18 | 2023-10-04 |
 | 10. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/10-diagnostic-odds.md">Diagnostic odds</a> | 2023-09-20 | |
+| 11. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/11-exchangeability.md">Exchangeability</a> | 2023-09-25 | |
+
+
 
 ## Schedule of Topics 
 
@@ -124,7 +128,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 |  → Conditional Probability | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) | | | |
 |  → Law of Total Probability | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) | | | |
 |  → Bayes Rule | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) |  | | |
-|  → Diagnostics | [Diagnostics](https://tgstewart.cloud/diagnostics.pptx) | | | |
+|  → Diagnostics | [Diagnostics](https://tgstewart.cloud/diagnostics.pptx) <br> [PPV plot R code](https://tgstewart.cloud/plot_ppv.R) | | | |
 |  → Random variable | | | | |
 | **Discrete Probability Models** | | | | |
 | → Probability Mass Function | | | | |
