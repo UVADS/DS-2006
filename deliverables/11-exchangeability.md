@@ -6,6 +6,7 @@ Please read sections 7.1 to 7.3 of Understanding Uncertainty.
 1. Please define, in your own words, exchangeability.
 2. Generate an example of a series that is not exchageable and one that is.
 3. Consider the following table of joint, conditional, and marginal probabilities.  Suppose
+
 $$ y = P(A|B) = P(B|A) $$
 $$ P(B) = p$$
 
