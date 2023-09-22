@@ -87,6 +87,7 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 | Mon, 2023-09-18 |  | 9 |
 | Wed, 2023-09-20 |  | 10 |
 | Fri, 2023-09-22 | UU 7.1 to 7.3 | 11 |
+| Mon, 2023-09-25 | UU 7.4 to 7.8 | 12 |
 
 
 ## Deliverables and Problem sets
@@ -107,6 +108,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 9. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/09-bayes-rule-more-practice.md">Bayes rule, more practice</a> | 2023-09-18 | 2023-10-04 |
 | 10. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/10-diagnostic-odds.md">Diagnostic odds</a> | 2023-09-20 | |
 | 11. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/11-exchangeability.md">Exchangeability</a> | 2023-09-25 | |
+| 12. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/11-probability-likelihood-chance.md">Probability, Likelihood, Chance</a> | 2023-09-25 | |
 
 
 
