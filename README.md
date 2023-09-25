@@ -107,7 +107,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 7. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/07-more-probability.md">More rules</a> | 2023-09-13 | 2023-10-02 |
 | 8. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/08-bayes-rule.md">Bayes rule</a> | 2023-09-15 | 2023-10-03 |
 | 9. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/09-bayes-rule-more-practice.md">Bayes rule, more practice</a> | 2023-09-18 | 2023-10-04 |
-| 10. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/10-diagnostic-odds.md">Diagnostic odds</a> | 2023-09-20 | |
+| 10. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/10-diagnostic-odds.md">Diagnostic odds</a> | 2023-09-20 | 2023-10-09 |
 | 11. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/11-exchangeability.md">Exchangeability</a> | 2023-09-25 | |
 | 12. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/12-probability-likelihood-chance.md">Probability, Likelihood, Chance</a> | 2023-09-27 | |
 | 13. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/13-simpsons-paradox.md">Simpson's paradox</a> | 2023-09-29 | |
