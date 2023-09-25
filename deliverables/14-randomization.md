@@ -3,7 +3,7 @@ Randomization
 
 Please read sections 8.4 to 8.9 of Understanding Uncertainty.
 
-1. In section 8.6, the author compares a medical trial to an agricultural trial.  Summarize why the conclusions of the trials were different, even though the data was exactly the same.
+1. In section 8.6, the author compares a medical trial to an agricultural trial.  Summarize why the conclusions of the trials were different, even though the data were exactly the same.
 
 2. Consider the figure below, which describes the medical trial.  Create a figure that represents the agricultural trial, using the terms variety, yield, and height.
 
