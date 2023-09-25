@@ -10,7 +10,7 @@ Please read sections 8.1 to 8.3 of Understanding Uncertainty.
 3. The treatment effect may be calculated on the relative scale or the absolute scale.  Which of these quantities is absolute and which is relative?  Why?
 
 $$
-\Delta = P(R|T)-(R|T^c) \quad \rho = \frac{P(R|T)}{(R|T^c)}
+\Delta = P(R|T)-(R|T^c) \quad \rho = \frac{P(R|T)}{P(R|T^c)}
 $$
 
 4. Calculate both $\Delta$ and $\rho$ for the tables created in 1 and 2.  Which summary measure is the same and which differs as the ratio of men to women changes?  Can you show this generally?  (Let $\alpha$ be the proportion of women.  Derive an expression for $\Delta$ and $\rho$.)
