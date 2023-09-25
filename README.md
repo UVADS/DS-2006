@@ -88,7 +88,8 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 | Wed, 2023-09-20 |  | 10 |
 | Fri, 2023-09-22 | UU 7.1 to 7.3 | 11 |
 | Mon, 2023-09-25 | UU 7.4 to 7.8 | 12 |
-
+| Wed, 2023-09-27 | UU 8.1 to 8.3 | 13 |
+| Fri, 2023-09-29 | UU 8.4 to 8.9 | 14 |
 
 ## Deliverables and Problem sets
 
@@ -108,7 +109,9 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 9. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/09-bayes-rule-more-practice.md">Bayes rule, more practice</a> | 2023-09-18 | 2023-10-04 |
 | 10. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/10-diagnostic-odds.md">Diagnostic odds</a> | 2023-09-20 | |
 | 11. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/11-exchangeability.md">Exchangeability</a> | 2023-09-25 | |
-| 12. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/11-probability-likelihood-chance.md">Probability, Likelihood, Chance</a> | 2023-09-27 | |
+| 12. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/12-probability-likelihood-chance.md">Probability, Likelihood, Chance</a> | 2023-09-27 | |
+| 13. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/13-simpsons-paradox.md">Simpson's paradox</a> | 2023-09-29 | |
+| 14. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/14-randomization.md">Randomization</a> | 2023-10-02 | |
 
 
 
@@ -131,6 +134,8 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 |  → Law of Total Probability | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) | | | |
 |  → Bayes Rule | [Slides](https://tgstewart.cloud/04-more-bayes.pdf) |  | | |
 |  → Diagnostics | [Diagnostics](https://tgstewart.cloud/diagnostics.pptx) <br> [PPV plot R code](https://tgstewart.cloud/plot_ppv.R) | | | |
+|  → Exchangeability | | | | |
+|  → Posterior, Prior, Likelihood, Chance | | | | |
 |  → Random variable | | | | |
 | **Discrete Probability Models** | | | | |
 | → Probability Mass Function | | | | |
