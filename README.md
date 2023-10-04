@@ -115,7 +115,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 12. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/12-probability-likelihood-chance.md">Probability, Likelihood, Chance</a> | 2023-09-27 | |
 | 13. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/13-simpsons-paradox.md">Simpson's paradox</a> | 2023-09-29 | |
 | 14. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/14-randomization.md">Randomization</a> | 2023-10-02 | |
-| 15. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/15-binomial-negbinomial-practice-problems.qmd>Binomial practice</a> | 2023-10-06 | |
+| 15. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/15-binomial-negbinomial-practice-problems.qmd">Binomial practice</a> | 2023-10-06 | |
 
 
 
@@ -143,7 +143,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 |  → Random variable | | | | |
 | **Discrete Probability Models** | | | | |
 | → Probability Mass Function | | | | |
-| → Bernoulli Random Variables | [Slides](https://tgstewart.cloud/05-binomial-prob.html) | | | |
+| → Bernoulli Random Variables | [Slides](https://tgstewart.cloud/05-binomial-prob.html)<br>[Hands and Sequences](https://tgstewart.cloud/hands-and-sequences.pptx) | | | |
 | → Binomial Random Variables | " | | | |
 | → Negative Binomial Random Variables | " | | | |
 | → Poisson Random Variables | | | | |
