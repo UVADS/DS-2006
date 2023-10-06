@@ -92,7 +92,11 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 | Fri, 2023-09-29 | UU 8.4 to 8.9 | 14 |
 | Mon, 2023-10-02 | Fall Break |  |
 | Wed, 2023-10-04 | [Binomial probabilities](https://tgstewart.cloud/05-binomial-prob.html) |  |
-| Wed, 2023-10-06 |  | 15 |
+| Fri, 2023-10-06 | " | 15 |
+| Mon, 2023-10-09 | [slides](https://tgstewart.cloud/01-probability-definition-slides.html) <br> [slides](https://tgstewart.cloud/02-simulation-review-slides.html) | 16 |
+| Wed, 2023-10-11 | [video](https://www.youtube.com/watch?v=Bz7c24aAObg) | 16 |
+| Fri, 2023-10-13 | " | 16 |
+
 
 ## Deliverables and Problem sets
 
@@ -129,7 +133,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | **Intro to R** | <a class = "callink" href = "https://tgstewart.cloud/into-r.pptx"> Getting R</a> | | | |
 |  → Markdown | <a href="https://www.markdownguide.org/cheat-sheet/">Cheatsheet</a> | | | |
 |  → Rmarkdown | <a href="https://tgstewart.cloud/rmd-example.rmd">Example input</a><br><a href="https://tgstewart.cloud/rmd-example.html">Example output</a> | | | |
-| **Simulation & Operating Characteristics** | | | | |
+| **Simulation & Operating Characteristics** | [slides](https://tgstewart.cloud/01-probability-definition-slides.html) <br> [slides](https://tgstewart.cloud/02-simulation-review-slides.html) | | | |
 | **Basic Probability Ideas** | | | | |
 |  → Belief vs Frequency vs Information  | | | | |
 |  → Notebook / data.frame definition  |  | | | |
