@@ -118,7 +118,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 11. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/11-exchangeability.md">Exchangeability</a> | 2023-09-25 | 2023-10-18 |
 | 12. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/12-probability-likelihood-chance.md">Probability, Likelihood, Chance</a> | 2023-09-27 | 2023-10-18 |
 | 13. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/13-simpsons-paradox.md">Simpson's paradox</a> | 2023-09-29 | 2023-10-18 |
-| 14. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/14-randomization.md">Randomization</a> | 2023-10-02 | |
+| 14. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/14-randomization.md">Randomization</a> | 2023-10-02 | 2023-10-23 |
 | 15. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/15-binomial-negbinomial-practice-problems.qmd">Binomial practice</a> | 2023-10-06 | |
 | 16. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/16-roulette.md">Roulette</a> | 2023-10-13 | |
 
