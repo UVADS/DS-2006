@@ -120,7 +120,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 13. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/13-simpsons-paradox.md">Simpson's paradox</a> | 2023-09-29 | 2023-10-18 |
 | 14. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/14-randomization.md">Randomization</a> | 2023-10-02 | |
 | 15. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/15-binomial-negbinomial-practice-problems.qmd">Binomial practice</a> | 2023-10-06 | |
-
+| 16. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/16-roulette.md">Roulette</a> | 2023-10-13 | |
 
 
 ## Schedule of Topics 
@@ -150,7 +150,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | → Bernoulli Random Variables | [Slides](https://tgstewart.cloud/05-binomial-prob.html)<br>[Hands and Sequences](https://tgstewart.cloud/hands-and-sequences.pptx) | | | |
 | → Binomial Random Variables | " | | | |
 | → Negative Binomial Random Variables | " | | | |
-| → Poisson Random Variables | | | | |
+| → Poisson Random Variables | [Slides](https://tgstewart.cloud/06-poisson.html) | | | |
 | **Continuous Probability Models** | | | | |
 | → Cumulative Distribution Function | | | | |
 | → Probability Density Function | | | | |
