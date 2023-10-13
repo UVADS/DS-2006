@@ -1,7 +1,7 @@
 Roulette
 ========
 
-<img src="./assets/roulette-table.svg" style="width:50.0%" />
+<img src="../assets/roulette-table.svg" style="width:50.0%" />
 
 A roulette table composed of 38 (or 37) evenly sized pockets on a wheel.
 The pockets are colored red, black, or green. The pockets are also
@@ -24,7 +24,7 @@ There are several *strategies* for playing roulette. (*Strategies* is in
 italics because the house always wins, in the long run.) Consider one
 such strategy:
 
-![](./assets/martingale-strategy.svg)
+![](../assets/martingale-strategy.svg)
 
 This is a classic roulette strategy called the “Martingale” strategy.
 Consider how the strategy playes out for a single sequence of spins
