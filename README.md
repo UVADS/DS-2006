@@ -96,6 +96,9 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 | Mon, 2023-10-09 | [slides](https://tgstewart.cloud/01-probability-definition-slides.html) <br> [slides](https://tgstewart.cloud/02-simulation-review-slides.html) | 16 |
 | Wed, 2023-10-11 | [video](https://www.youtube.com/watch?v=Bz7c24aAObg) | 16 |
 | Fri, 2023-10-13 | " | 16 |
+| Mon, 2023-10-16 | " | 16 |
+| Wed, 2023-10-18 |  |  |
+| Fri, 2023-10-20 |  |  |
 
 
 ## Deliverables and Problem sets
