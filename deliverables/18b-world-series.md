@@ -15,8 +15,8 @@ In this activity, you are going to write a function which generates random draws
 
 ## Steps    
 
-1. Set $k$ and $p_A$ to specific values, say `k <- 4` and `p_A <- 0.55``
-1. Create a Bernoulli sequence of length $2*k-1$ (which is the maximum number of trials/games).  `s <- rbinom(2*k-1,1,p_A)``
+1. Set $k$ and $p_A$ to specific values, say `k <- 4` and `p_A <- 0.55`
+1. Create a Bernoulli sequence of length $2*k-1$ (which is the maximum number of trials/games).  `s <- rbinom(2*k-1,1,p_A)`
 1. From the sequence, determine if team A or B won the series.  Store the result in object $o$ (for outcome).
 1. From the sequence, determine how many games were played. Store the results in object $n$ (for number of games/trials).
 1. Package the previous code into a function with input $k$ and $p_A$ and output vector with $o$ and $n$.
