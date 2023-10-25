@@ -26,7 +26,7 @@ Github: eanelson01
 
 **Office Hours:**  MWF, 10am, Dell 1 Commons  
 
-**TA Office Hours:**  Thursdays, 11am, Dell 1 Commons  
+**TA Office Hours:**  Thursdays, 2pm, Dell 1 Commons  
 
 ## Textbooks 
 
