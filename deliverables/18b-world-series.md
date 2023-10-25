@@ -23,6 +23,6 @@ In this activity, you are going to write a function which generates random draws
 
 ## Questions
 
-1. Generate 5000 draws from the world series distribution.  (Use and $k$ and $p_A$.)
+1. Generate 5000 draws from the world series distribution.  (Use and $k$ any $p_A$.)
 1. With the draws, create the contingency table with number of games as the row variable and winner as the column variable.  Include conditional probabilities.
 1. Supposing that the world series ends in $2*k-1$ games, what is the probability that team $A$ will win?
