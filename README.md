@@ -100,8 +100,8 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 | Wed, 2023-10-18 | [slides](https://tgstewart.cloud/08-continuous-probability-models.html) | 17 |
 | Fri, 2023-10-20 |  | 17 |
 | Mon, 2023-10-23 | Rock, paper, scissors  |  |
-| Mon, 2023-10-25 | World Series  | 18 |
-| Mon, 2023-10-27 | World Series  | 18 |
+| Wed, 2023-10-25 | World Series  | 18 |
+| Fri, 2023-10-27 | World Series  | 18 |
 
 ## Deliverables and Problem sets
 
@@ -127,7 +127,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 15. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/15-binomial-negbinomial-practice-problems.qmd">Binomial practice</a> | 2023-10-06 | 2023-10-23 |
 | 16. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/16-roulette.md">Roulette</a> | 2023-10-16 | 2023-11-08 |
 | 17. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/17-simulation-error.md">Simulation error</a> | 2023-10-23 | |
-| 18. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/18-world-series.md">World Series</a> | 2023-10-27 | |
+| 18. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/18-world-series.md">World Series</a> | 2023-10-30 | |
 
 
 ## Schedule of Topics 

@@ -1,6 +1,8 @@
 Bernoulli Sequences and Random Variables
 ========================================
 
+**This was an in class activity.  You do not need to submit this as a deliverable.  We did it in class to help you prepare for deliverable 18, which is an assignment that will be submitted and graded.**
+
 There are a number of random variables that can be generated from a Bernoulli sequence.
 
 | Random variable | Stopping rule | Distribution |

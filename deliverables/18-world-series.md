@@ -72,6 +72,5 @@ Questions to answer:
     document that will successfully generate the output of the
     simulation when executed from within the folder. (Do not use
     absolute file paths.)
-5.  Edit the README to be an index for the portfolio. (Optional)  
 6.  Be prepared to share your blog post with the class when the
     deliverable is due.
