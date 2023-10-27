@@ -101,7 +101,7 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 | Fri, 2023-10-20 |  | 17 |
 | Mon, 2023-10-23 | Rock, paper, scissors  |  |
 | Wed, 2023-10-25 | World Series  | 18 |
-| Fri, 2023-10-27 | World Series  | 18 |
+| Fri, 2023-10-27 | World Series<br>[hints](https://tgstewart.cloud/world-series-distribution.pptm)  | 18 |
 
 ## Deliverables and Problem sets
 
@@ -158,6 +158,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | → Binomial Random Variables | " | | | |
 | → Negative Binomial Random Variables | " | | | |
 | → Poisson Random Variables | [Slides](https://tgstewart.cloud/06-poisson.html) | | | |
+| → World Series Distribution | [Hints](https://tgstewart.cloud/world-series-distribution.pptm) | | | |
 | **Continuous Probability Models** | [slides](https://tgstewart.cloud/08-continuous-probability-models.html) <br> [slides](https://tgstewart.cloud/09-continuous-probability-models-part2.html) <br> [lots-o-pdfs](https://www.desmos.com/calculator/qgpfi00qnb)  | | | |
 | → Cumulative Distribution Function | | | | |
 | → Probability Density Function | | | | |
