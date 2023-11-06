@@ -128,6 +128,10 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 16. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/16-roulette.md">Roulette</a> | 2023-10-16 | 2023-11-08 |
 | 17. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/17-simulation-error.md">Simulation error</a> | 2023-10-23 | |
 | 18. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/18-world-series.md">World Series</a> | 2023-10-30 | |
+| 19. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/19-cdf-estimation.md">Birth weight</a> | 2023-11-08 | |
+
+
+https://tgstewart.cloud/cdf-pdf-mixtures-kernel.html
 
 
 ## Schedule of Topics 
