@@ -102,6 +102,12 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 | Mon, 2023-10-23 | Rock, paper, scissors  |  |
 | Wed, 2023-10-25 | World Series  | 18 |
 | Fri, 2023-10-27 | World Series<br>[hints](https://tgstewart.cloud/world-series-distribution.pptm)  | 18 |
+|Mon, 2023-10-03 | | |
+|Wed, 2023-11-01 | [slides](https://tgstewart.cloud/08-continuous-probability-models.html) <br> [slides](https://tgstewart.cloud/09-continuous-probability-models-part2.html) <br> [lots-o-pdfs](https://www.desmos.com/calculator/qgpfi00qnb) | |
+|Fri, 2023-11-03 | | |
+|Mon, 2023-11-06 | | 19 <br> [module](https://tgstewart.cloud/cdf-pdf-mixtures-kernel.html) |
+| Wed, 2023-11-08 | | |
+| Fri, 2023-11-10 | | |
 
 ## Deliverables and Problem sets
 
