@@ -106,7 +106,7 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 |Wed, 2023-11-01 | [slides](https://tgstewart.cloud/08-continuous-probability-models.html) <br> [slides](https://tgstewart.cloud/09-continuous-probability-models-part2.html) <br> [lots-o-pdfs](https://www.desmos.com/calculator/qgpfi00qnb) | |
 |Fri, 2023-11-03 | | |
 |Mon, 2023-11-06 | | 19 <br> [module](https://tgstewart.cloud/cdf-pdf-mixtures-kernel.html) |
-| Wed, 2023-11-08 | | |
+| Wed, 2023-11-08 | | 20 <br> [module](https://tgstewart.cloud/cdf-pdf-kernels.html) |
 | Fri, 2023-11-10 | | |
 
 ## Deliverables and Problem sets
@@ -135,6 +135,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 17. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/17-simulation-error.md">Simulation error</a> | 2023-10-23 | 2023-11-15 |
 | 18. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/18-world-series.md">World Series</a> | 2023-10-30 | |
 | 19. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/19-cdf-estimation.md">Birth weight</a> | 2023-11-08 | |
+| 20. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/20-cdf-estimation-kernels.md">Birth weight with kernels</a> | 2023-11-10 | |
 
 
 https://tgstewart.cloud/cdf-pdf-mixtures-kernel.html
