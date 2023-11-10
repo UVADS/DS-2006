@@ -107,7 +107,7 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 |Fri, 2023-11-03 | | |
 |Mon, 2023-11-06 | | 19 <br> [module](https://tgstewart.cloud/cdf-pdf-mixtures-kernel.html) |
 | Wed, 2023-11-08 | | 20 <br> [module](https://tgstewart.cloud/cdf-pdf-kernels.html) |
-| Fri, 2023-11-10 | | |
+| Fri, 2023-11-10 | | 21 <br> [module](https://tgstewart.cloud/cdf-pdf-kernels-part2.html) |
 
 ## Deliverables and Problem sets
 
@@ -136,10 +136,7 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 18. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/18-world-series.md">World Series</a> | 2023-10-30 | 2023-11-20 |
 | 19. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/19-cdf-estimation.md">Birth weight</a> | 2023-11-08 | |
 | 20. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/20-cdf-estimation-kernels.md">Birth weight with kernels</a> | 2023-11-10 | |
-
-
-https://tgstewart.cloud/cdf-pdf-mixtures-kernel.html
-
+| 21. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/21-pdf-estimation-kernels.md">Birth weight with kernels (part 2)</a> | 2023-11-13 | |
 
 ## Schedule of Topics 
 
@@ -194,7 +191,7 @@ https://tgstewart.cloud/cdf-pdf-mixtures-kernel.html
 | → Method of moments | | | | |
 | → Maximum likelihood | | | | |
 | → Bayesian | | | | |
-| → Kernel Density Estimation | | | | |
+| → Kernel Density Estimation | deleverables 19, 20, 21 | | | |
 | **Sampling Distributions from Fitted Models** | | | | |
 | → Bootstrap | | | | |
 | → Simulation | | | | |
