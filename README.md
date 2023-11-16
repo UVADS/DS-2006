@@ -135,8 +135,8 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 17. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/17-simulation-error.md">Simulation error</a> | 2023-10-23 | 2023-11-15 |
 | 18. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/18-world-series.md">World Series</a> | 2023-10-30 | 2023-11-20 |
 | 19. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/19-cdf-estimation.md">Birth weight</a> | 2023-11-08 | 2023-11-27 |
-| 20. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/20-cdf-estimation-kernels.md">Birth weight with kernels</a> | 2023-11-10 | |
-| 21. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/21-pdf-estimation-kernels.md">Birth weight with kernels (part 2)</a> | 2023-11-13 | |
+| 20. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/20-cdf-estimation-kernels.md">Birth weight with kernels</a> | 2023-11-10 | 2023-12-01 |
+| 21. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/21-pdf-estimation-kernels.md">Birth weight with kernels (part 2)</a> | 2023-11-13 | 2023-12-01 |
 
 ## Schedule of Topics 
 
