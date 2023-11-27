@@ -108,6 +108,12 @@ Each class will have an assigned reading.  Each reading is paired with a deliver
 |Mon, 2023-11-06 | | 19 <br> [module](https://tgstewart.cloud/cdf-pdf-mixtures-kernel.html) |
 | Wed, 2023-11-08 | | 20 <br> [module](https://tgstewart.cloud/cdf-pdf-kernels.html) |
 | Fri, 2023-11-10 | | 21 <br> [module](https://tgstewart.cloud/cdf-pdf-kernels-part2.html) |
+| Mon, 2023-11-13 | | 22 <br> [slides](https://tgstewart.cloud/mle-bayes-mm.pptx) |
+| Wed, 2023-11-15 | | 22 <br> [slides](https://tgstewart.cloud/mle-bayes-mm.pptx) |
+| Fri, 2023-11-17 | | 23 <br> [module](https://tgstewart.cloud/bayesian-update.html) |
+| Mon, 2023-11-20 | | 23 <br> [module](https://tgstewart.cloud/bayesian-update.html) |
+| Mon, 2023-11-27 | | 24 <br> [slides, slides 9 to 21](https://tgstewart.cloud/15-fitting-continuous-models-mle.html) |
+
 
 ## Deliverables and Problem sets
 
@@ -137,6 +143,11 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 19. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/19-cdf-estimation.md">Birth weight</a> | 2023-11-08 | |
 | 20. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/20-cdf-estimation-kernels.md">Birth weight with kernels</a> | 2023-11-10 | |
 | 21. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/21-pdf-estimation-kernels.md">Birth weight with kernels (part 2)</a> | 2023-11-13 | |
+| 22. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/22-estimation-mle.md">Estimating the maternal age distribution with Maximum Likelihood</a> | 2023-11-27 | |
+| 23. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/23-estimation-bayes.md">Bayesian updating</a> | 2023-11-27 | |
+| 24. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/24-estimation-mm.md">Estimating the weight distribution with method of moments</a> | 2023-11-29 | |
+
+
 
 ## Schedule of Topics 
 
@@ -186,11 +197,11 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | → Quantiles | | | | |
 | → Order Statistics | | | | |
 | → Sampling distributions | | | | |
-| **Methods of Fitting Models** | | | | |
+| **Methods of Fitting Models** | [slides](https://tgstewart.cloud/15-fitting-continuous-models-mle.html) <br> [slides](https://tgstewart.cloud/mle-bayes-mm.pptx) | | | |
 | → QQ-plot | | | | |
-| → Method of moments | | | | |
-| → Maximum likelihood | | | | |
-| → Bayesian | | | | |
+| → Method of moments | deliverable 24 | | | |
+| → Maximum likelihood | deliverable 22 | | | |
+| → Bayesian | deliverable 23 | | | |
 | → Kernel Density Estimation | deleverables 19, 20, 21 | | | |
 | **Sampling Distributions from Fitted Models** | | | | |
 | → Bootstrap | | | | |
