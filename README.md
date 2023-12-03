@@ -143,9 +143,9 @@ Some of the assignments will be traditional problem sets.  Others will be more s
 | 19. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/19-cdf-estimation.md">Birth weight</a> | 2023-11-08 | 2023-11-27 |
 | 20. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/20-cdf-estimation-kernels.md">Birth weight with kernels</a> | 2023-11-10 | 2023-12-01 |
 | 21. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/21-pdf-estimation-kernels.md">Birth weight with kernels (part 2)</a> | 2023-11-13 | 2023-12-01 |
-| 22. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/22-estimation-mle.md">Estimating the maternal age distribution with Maximum Likelihood</a> | 2023-11-27 | |
-| 23. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/23-estimation-bayes.md">Bayesian updating</a> | 2023-11-27 | |
-| 24. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/24-estimation-mm.md">Estimating the weight distribution with method of moments</a> | 2023-11-29 | |
+| 22. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/22-estimation-mle.md">Estimating the maternal age distribution with Maximum Likelihood</a> | 2023-11-27 | 2023-12-05 |
+| 23. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/23-estimation-bayes.md">Bayesian updating</a> | 2023-11-27 | 2023-12-05 |
+| 24. <a class = "callink" href = "https://github.com/UVADS/DS-2006/blob/main/deliverables/24-estimation-mm.md">Estimating the weight distribution with method of moments</a> | 2023-11-29 | 2023-12-05 |
 
 
 
