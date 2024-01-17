@@ -156,7 +156,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 
 | Mon | Tue | Wed | Thu | Fri |
 |:---|:---|:---|:---|:---|
-| Jan<br>&nbsp; | | 17<br>[Survey/Github setup](https://link.tgstewart.xyz/survey) | | 19<br>&nbsp; |
+| Jan<br>&nbsp; | | 17<br>[Survey/Github setup](https://link.tgstewart.xyz/survey) | | 19<br><details><summary>Reading</summary>[Get started guide](https://rmarkdown.rstudio.com/lesson-1.html)</details> |
 | 22<br>&nbsp; | | 24<br>&nbsp; | | 26<br>&nbsp; |
 | 29<br>&nbsp; | | 31<br>&nbsp; | Feb<br>&nbsp; | 2<br>&nbsp; |
 | 5<br>&nbsp; | | 7<br>&nbsp; | | 9<br>&nbsp; |
