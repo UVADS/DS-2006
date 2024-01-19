@@ -159,7 +159,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Mon | Tue | Wed | Thu | Fri |
 |:---|:---|:---|:---|:---|
 | Jan<br>&nbsp; | | 17<br>[Survey/Github setup](https://link.tgstewart.xyz/survey) | | 19<br><details><summary>Reading</summary>[Get started guide](https://rmarkdown.rstudio.com/lesson-1.html)</details>[Intro R](https://tgstewart.cloud/into-r.pptx) |
-| 22<br><details><summary>Reading</summary>[Intro Markdown](https://www.markdownguide.org/cheat-sheet)<br>[Intro Github](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)</details>| | 24<br>&nbsp; | | 26<br>&nbsp; |
+| 22<br>DUE: [HW1](https://github.com/UVADS/DS-2006/blob/main/assignments/hw1-euler-problems.md)<br><details><summary>Reading</summary>[Intro Markdown](https://www.markdownguide.org/cheat-sheet)<br>[Intro Github](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)</details>| | 24<br>&nbsp; | | 26<br>&nbsp; |
 | 29<br>&nbsp; | | 31<br>&nbsp; | Feb<br>&nbsp; | 2<br>&nbsp; |
 | 5<br>&nbsp; | | 7<br>&nbsp; | | 9<br>&nbsp; |
 | 12<br>&nbsp; | | 14<br>Exam review&nbsp; | | 16<br><details><summary>Exam</summary>Details TBD</details> |
@@ -176,7 +176,22 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | 29<br>Last class<br>Exam review | | May<br>&nbsp; | | 3<br>&nbsp; |
 | 6<br>&nbsp; | | 8<br>&nbsp;  | 9<br>Final exam|  |
 
-<!-- | Date | Topics | Reading | Assignment |
+<!-- 
+## Jan 19
+* Any questions about syllabus
+* Remind about reading assignment
+* Introduction to R (slides)
+    * What other languages are you aware of?
+    * What new languages are on the horizon?
+    * Data scientists will need to learn new languages in the future ... be open to new tools.
+    * slides
+    * small group work (10 min)
+    * talk about solutions
+
+
+
+
+| Date | Topics | Reading | Assignment |
 |---:|:---|:---|:---|
 | Jan 22| Syllabus, [Survey/Github setup](https://link.tgstewart.xyz/survey) | | |
 | 26 | Introduction to R, Rmarkdown, Rivanna, Github | [Get started guide](https://rmarkdown.rstudio.com/lesson-1.html) | [HW 00: Rmarkdown](https://github.com/UVADS/DS-2006/blob/main/assignments/00-rmarkdown.md) |
