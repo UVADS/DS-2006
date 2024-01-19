@@ -154,10 +154,12 @@ Students will be graded on both the accuracy of their responses and the clarity 
 
 Homeworks, deliverables, reading assignments, and exams will be posted on the course calendar below.
 
+<!-- <details><summary>Reading</summary></details> -->
+
 | Mon | Tue | Wed | Thu | Fri |
 |:---|:---|:---|:---|:---|
-| Jan<br>&nbsp; | | 17<br>[Survey/Github setup](https://link.tgstewart.xyz/survey) | | 19<br><details><summary>Reading</summary>[Get started guide](https://rmarkdown.rstudio.com/lesson-1.html)</details> |
-| 22<br>&nbsp; | | 24<br>&nbsp; | | 26<br>&nbsp; |
+| Jan<br>&nbsp; | | 17<br>[Survey/Github setup](https://link.tgstewart.xyz/survey) | | 19<br><details><summary>Reading</summary>[Get started guide](https://rmarkdown.rstudio.com/lesson-1.html)</details>[Intro R](https://tgstewart.cloud/into-r.pptx) |
+| 22<br><details><summary>Reading</summary>[Intro Markdown](https://www.markdownguide.org/cheat-sheet)<br>[Intro Github](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)</details>| | 24<br>&nbsp; | | 26<br>&nbsp; |
 | 29<br>&nbsp; | | 31<br>&nbsp; | Feb<br>&nbsp; | 2<br>&nbsp; |
 | 5<br>&nbsp; | | 7<br>&nbsp; | | 9<br>&nbsp; |
 | 12<br>&nbsp; | | 14<br>Exam review&nbsp; | | 16<br><details><summary>Exam</summary>Details TBD</details> |
@@ -173,6 +175,53 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | 22<br>&nbsp; | | 24<br>&nbsp; | | 26<br>&nbsp; |
 | 29<br>Last class<br>Exam review | | May<br>&nbsp; | | 3<br>&nbsp; |
 | 6<br>&nbsp; | | 8<br>&nbsp;  | 9<br>Final exam|  |
+
+<!-- | Date | Topics | Reading | Assignment |
+|---:|:---|:---|:---|
+| Jan 22| Syllabus, [Survey/Github setup](https://link.tgstewart.xyz/survey) | | |
+| 26 | Introduction to R, Rmarkdown, Rivanna, Github | [Get started guide](https://rmarkdown.rstudio.com/lesson-1.html) | [HW 00: Rmarkdown](https://github.com/UVADS/DS-2006/blob/main/assignments/00-rmarkdown.md) |
+| 29 | Uncertainty | UU Chapter 1 | [HW 01: Uncertainty](https://github.com/UVADS/DS-2006/blob/main/assignments/01-uncertainty.md) |
+| 31 | | | |
+| Feb 2 | | | |
+| 5 | | | |
+| 7 | | | |
+| 9 | | | |
+| 12 | | | |
+| 14 | Exam review | | |
+| 16 | Exam | | |
+| 19 | | | |
+| 21 | | | |
+| 23 | | | |
+| 26 | | | |
+| 28 | | | |
+| Mar 1 | | | |
+| 4 | | | |
+| 6 | | | |
+| 8 | | | |
+| 11 | | | |
+| 13 | | | |
+| 15 | | | |
+| 18 | | | |
+| 20 | | | |
+| 22 | | | |
+| 25 | | | |
+| 27 | Exam | | |
+| 29 | Exam review | | |
+| Apr 1 | | | |
+| 3 | | | |
+| 5 | | | |
+| 8 | | | |
+| 10 | | | |
+| 12 | | | |
+| 15 | | | |
+| 17 | | | |
+| 19 | | | |
+| 22 | | | |
+| 24 | | | |
+| 26 | | | |
+| 29 | Final exam review  | ||
+| May 9 | Final exam | | |
+ | | -->
 
 ## Adjustments
 
