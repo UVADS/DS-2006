@@ -14,4 +14,6 @@ Do not worry about CODE, simply describe a process in English.
 
 ### Submission instructions
 
-1.  We will discuss in class how to submit HW via Github.  Simply come prepared with a written solution for each problem.
+1.  In your repository, create a file called `HW1.md` with your solutions. 
+1.  Use markdown syntax to add some formatting elements like headers or lists or **bold**.
+1.  Sync your local and online repositories.  (Push the local repo to Github.com.)
