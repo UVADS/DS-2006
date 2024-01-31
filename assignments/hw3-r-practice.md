@@ -44,11 +44,12 @@ d1 <- read.csv("http://hbiostat.org/data/repo/2.20.Framingham.csv")
 14. Run the following code chunk.  Explain what the pipe operator does.
 
 ```
+require(dplyr)
+
 # Old way
 sum(log(sqrt(select(d1,age)),base=10))
 
 # OG magrittr pipe
-require(magrittr)
 d1 %>% 
   pull(age)  %>% 
   sqrt  %>% 
@@ -59,7 +60,7 @@ d1 %>%
   lm(sbp ~ dbp, data = .)  # Use the dot if the piped objects needs to go to an input other than the first
 
 d1 %>% 
-  split(.$sex2) %>%  # Can use the input multiple times
+  split(.$sex) %>%  # Can use the input multiple times
   lapply(function(x){x$age %>% mean})
 
 # New base R pipe
