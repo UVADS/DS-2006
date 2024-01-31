@@ -12,16 +12,16 @@ In this assignment, you will practice some basic operations in R. Create an .rmd
 
 3. Run the `ls()` command to see the objects in the environment.
 
-4. Create vectors of length 5 with the following atoms.  Call them v1, v2, ..., v4.
+4. Create vectors of length 5 with the following atoms.  Call them `v1`, `v2`, ..., `v4`.
 
 * logicals
 * integers
 * doubles
 * characters
 
-5. Place the vectors v1 ... v4 into a list called V.
+5. Place the vectors `v1` ... `v4` into a list called V.
 
-6. Use `str` to inspect `v`
+6. Use `str` to inspect `V`
 
 7. Create a matrix of size 4 x 5 of numeric values.
 
