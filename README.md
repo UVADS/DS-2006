@@ -1,4 +1,4 @@
-# Computational Probability, Fall 2024
+# Computational Probability, Spring 2024
 
 ## Overview
 
@@ -155,12 +155,11 @@ Students will be graded on both the accuracy of their responses and the clarity 
 Homeworks, deliverables, reading assignments, and exams will be posted on the course calendar below.
 
 <!-- <details><summary>Reading</summary></details> -->
-
 | Mon | Tue | Wed | Thu | Fri |
 |:---|:---|:---|:---|:---|
 | Jan<br>&nbsp; | | 17<br>[Survey/Github setup](https://link.tgstewart.xyz/survey) | | 19<br><details><summary>Reading</summary>[Get started guide](https://rmarkdown.rstudio.com/lesson-1.html)</details>[Intro R](https://tgstewart.cloud/into-r.pptx) |
 | 22<br><details><summary>Reading</summary>[Intro Markdown](https://markdownguide.offshoot.io/getting-started/)<br>[Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)</details>| | 24<br>[Tools](https://tgstewart.cloud/tools.pptx)<br>[Reproducable Reports](http://tgstewart.xyz/reproducible-research-tools/) | | 26<br>DUE: [HW1](https://github.com/UVADS/DS-2006/blob/main/assignments/hw1-euler-problems.md)<br><details><summary>Reading</summary>(optional) First 5 videos of [Learn R Programming](https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg)<br>(optional) [Intro to VS Code](https://www.youtube.com/watch?v=B-s71n0dHUk)<br>(optional) [Using Git with Visual Studio Code](https://www.youtube.com/watch?v=i_23KUAEtUM) Note that you have already cloned your repo locally, whereas the video creates a fresh repo. </details> |
-| 29<br>DUE: [HW2](https://github.com/UVADS/DS-2006/blob/main/assignments/hw2-euler-problems-rmarkdown.md)<br>[Rstudio on Rivanna](https://tgstewart.cloud/rivanna-rstudio.pptx) | | 31<br>&nbsp; | Feb<br>&nbsp; | 2<br>&nbsp; |
+| 29<br>DUE: [HW2](https://github.com/UVADS/DS-2006/blob/main/assignments/hw2-euler-problems-rmarkdown.md)<br>[Rstudio on Rivanna](https://tgstewart.cloud/rivanna-rstudio.pptx) | | 31<br>&nbsp; | Feb<br>&nbsp; | 2<br>DUE: [HW3](https://github.com/UVADS/DS-2006/blob/main/assignments/hw3-r-practice.md)<br><details><summary>Reading</summary>[Understanding uncertainty](https://ebookcentral.proquest.com/lib/uva/reader.action?docID=1574353), CH 1</details> |
 | 5<br>&nbsp; | | 7<br> DUE: [HW1](https://github.com/UVADS/DS-2006/blob/main/assignments/hw1-euler-problems.md) Resubmission <br> | | 9<br>&nbsp; |
 | 12<br>&nbsp; | | 14<br>Exam review&nbsp; | | 16<br><details><summary>Exam</summary>Details TBD</details> |
 | 19<br>&nbsp; | | 21<br>&nbsp; | | 23<br>&nbsp; |
