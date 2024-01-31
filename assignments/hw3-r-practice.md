@@ -74,6 +74,25 @@ d1 |>
   lm(sbp ~ dbp, data = _) # Use `_` instead of `.` with new pipe
 ```
 
+15.  UVA phone numbers are often of the form (434) 924-????.  Modifying the code below, find the number of UVA phone numbers of the form (434) 924-???? which are prime.  (You may need to install the `primes` package.)
+
+```
+prime <- function(x){
+  ps <- primes::generate_primes(min = 2, max = ceiling(sqrt(x)))
+  for(i in ps) if(x%%i == 0) return(FALSE)
+  TRUE
+}
+
+k <- 0
+for(i in ???){
+    k <- k + prime(i)
+}
+k
+```
+
+16. Modify the code above to find the list UVA phone numbers of the form (434) 924-???? which are prime.
+
+
 ### Submission instructions
 
 1.  In your repository, create a folder called `HW3`. 
