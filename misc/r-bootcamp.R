@@ -12,6 +12,9 @@ ls() # This all the objects in the current environment
 environment() # Gives the name of the current environment
 loadedNamespaces() # Functions from loaded packages are not listed with `ls()`.  This command shows the current set of attached packages.
 
+library(tgsify)
+htmlify(a)
+library(kableExtra)
 
 #################
 # 2. Objects ----
