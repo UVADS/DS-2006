@@ -1,4 +1,4 @@
-Examples of Uncertainty
+HW: Examples of Uncertainty
 ========
 
 Please read chapter 1 of Understanding Uncertainty.
@@ -9,7 +9,7 @@ Please read chapter 1 of Understanding Uncertainty.
 
 ### Submission instructions
 
-1.  Within your course repo, create a folder called `01-uncertainty`
-1.  Within the folder, create an **.html** file created with Rmarkdown with the name `writeup.html`
+1.  Within your course repo, create a file called `HW4.md` with your answers formatted with markdown.
+1. Sync your local and online repositories.  (Push the local repo to Github.com.)
 1.  The deliverable should be your own work.  You may **discuss**
     concepts with classmates.
