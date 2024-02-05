@@ -3,6 +3,8 @@ title: "HW: Calculus of belief"
 output: md_document
 ---
 
+# HW: Calculus of belief
+
 Consider two investment opportunities.  The first is a large water well project with a potential payoff of $100.  The second opportunity is an investment series of 10 small wells, each with a potential payoff of $10.  The probability that any well (large or small) returns a payoff is 0.1.
 
 The functions below simulate the outcomes from the two investments.

@@ -1,3 +1,5 @@
+# HW: Calculus of belief
+
 Consider two investment opportunities. The first is a large water well
 project with a potential payoff of $100. The second opportunity is an
 investment series of 10 small wells, each with a potential payoff of
@@ -18,7 +20,7 @@ For example, to simulate 10 outcomes, we can use the commands
 
     sma_well(10)
 
-    ##  [1]  0 10  0 20 30 10  0 10 20 30
+    ##  [1] 10 30 20 20 10 10 10 10 10  0
 
 Thinking about probability as a long-run proportion, one can generate
 many replicates and then tabulate.
@@ -28,7 +30,7 @@ many replicates and then tabulate.
 
     ## 
     ##      0    100 
-    ## 900542  99458
+    ## 900421  99579
 
     big_well(1E6) |>
       table() |>
@@ -36,7 +38,7 @@ many replicates and then tabulate.
 
     ## 
     ##        0      100 
-    ## 0.899896 0.100104
+    ## 0.899942 0.100058
 
 1.  Write code that generates the long-run proportions for the small
     well investment opportunity.
