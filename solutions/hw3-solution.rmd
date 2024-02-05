@@ -1,0 +1,165 @@
+---
+output: md_document
+---
+
+# HW 3 Solutions
+
+1. Working Directory
+
+* What is the working directory?
+
+>The working directory is a folder in which the program will look for input files and save output files, unless the location of the file is specified.  For example, the command `read.csv("survey.csv")` will look for the `survey.csv` file in the working directory.
+
+* What are the best practices for setting and using the working directory?
+
+>Write your code assuming that the working directory is the folder in which the code will be executed.
+
+>Use **relative file paths**.  For example, use **..** syntax.
+
+2. Create a string called `name` which stores your name.
+
+```{r}
+name <- "Thomas Stewart"
+```
+
+3. Run the `ls()` command to see the objects in the environment.
+
+```{r}
+ls()
+```
+
+4. Create vectors of length 5 with the following atoms.  Call them `v1`, `v2`, ..., `v4`.
+
+* logicals
+* integers
+* doubles
+* characters
+
+```{r}
+v1 <- c(TRUE, TRUE, FALSE, FALSE, TRUE)
+v2 <- c(1L, 0L, 9L, 100000L, 4L)
+v3 <- c(sqrt(2), pi, (1+sqrt(5))/2, 2.0, 5.1)
+v4 <- c("This is", "a", "vector of", "character strings",".")
+```
+
+5. Place the vectors `v1` ... `v4` into a list called V.
+
+```{r}
+V <- list(v1, v2, v3, v4)
+```
+
+6. Use `str` to inspect `V`
+
+```{r}
+str(V)
+```
+
+7. Create a matrix of size 4 x 5 of numeric values.
+
+```{r}
+M <- matrix(rnorm(20), 4)
+M
+```
+
+8. Create a sequence from 22 to 44 using the `seq` command.
+
+```{r}
+seq(22,44)
+```
+
+9. Create an array with `cbind`
+
+```{r}
+cbind(A = v3, B = 1:5)
+```
+
+10. Grab the 3rd element of the vector `v3`
+
+```{r}
+v3[3]
+```
+
+11. Use the following data frame, `d1`, and grab the 4th column.
+
+```{r}
+d1 <- read.csv("http://hbiostat.org/data/repo/2.20.Framingham.csv")
+head(d1[,4]) # Show only first 6 elements
+head(d1[[4]])
+```
+
+12. Use `d1` and grab the 5th row.
+
+```{r}
+d1[5,]
+```
+
+13. Use `d1` and grab the `bmi` column.
+
+```{r}
+# These are all equivalent
+z1 <- d1[,"bmi"]
+z2 <- d1$bmi
+z3 <- d1[["bmi"]]
+head(z1, 8) # First 8 entries
+```
+
+14. Run the following code chunk.  Explain what the pipe operator does.
+
+```
+require(dplyr)
+
+# Old way
+sum(log(sqrt(select(d1,age)),base=10))
+
+# OG magrittr pipe
+d1 %>% 
+  pull(age)  %>% 
+  sqrt  %>% 
+  log(base=10)  %>% 
+  sum
+
+d1 %>% 
+  lm(sbp ~ dbp, data = .)  # Use the dot if the piped objects needs to go to an input other than the first
+
+d1 %>% 
+  split(.$sex) %>%  # Can use the input multiple times
+  lapply(function(x){x$age %>% mean})
+
+# New base R pipe
+d1 |> 
+  pull(age) |> 
+  sqrt() |> # Note the parentheses have to be used
+  log(base=10) |> 
+  sum()
+
+d1 |>  
+  lm(sbp ~ dbp, data = _) # Use `_` instead of `.` with new pipe
+```
+
+>The pipe operator allows the output of one command to be used as an input in a subsequent command.  In this way, the pipe creates a chain of commands to generate a final output.  Because the commands are written in the order in which they are executed, the code is easier to read.
+
+15.  UVA phone numbers are often of the form (434) 924-????.  Modifying the code below, find the number of UVA phone numbers of the form (434) 924-???? which are prime.  (You may need to install the `primes` package.)
+
+```{r}
+prime <- function(x){
+  ps <- primes::generate_primes(min = 2, max = ceiling(sqrt(x)))
+  for(i in ps) if(x%%i == 0) return(FALSE)
+  TRUE
+}
+
+k <- 0
+for(i in 4349240000:4349249999){
+    k <- k + prime(i)
+}
+k
+```
+
+16. Modify the code above to find the list UVA phone numbers of the form (434) 924-???? which are prime.
+
+```{r}
+out <- integer()
+for(i in 4349240000:4349249999){
+  if(prime(i)) out <- c(out,i)
+}
+head(out, 21) # Listing the first 21
+```
