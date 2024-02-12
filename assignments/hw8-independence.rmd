@@ -7,7 +7,7 @@ HW: Independence
 
 Please read sections 4.3 to 4.7 of Understanding Uncertainty.
 
-Here is the data from the in-class survey about soft drinks which you will use in the following problems.
+Here is the data from the in-class survey about soft drinks which you will use in the following problems.  *For the moment, we will exclude reponses with missing values.  (But, missing data is something we will touch on in the future.)*
 
 ```{r, message = FALSE}
 require(dplyr)
