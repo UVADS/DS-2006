@@ -1,0 +1,44 @@
+---
+output: md_document
+---
+
+HW: Independence
+========
+
+Please read sections 4.3 to 4.7 of Understanding Uncertainty.
+
+Here is the data from the in-class survey about soft drinks which you will use in the following problems.
+
+```{r, message = FALSE}
+require(dplyr)
+require(pander)
+d1 <- read.csv("https://tgstewart.cloud/soda.csv") |>
+  filter(!is.na(cola) & !is.na(sugar))
+descr::CrossTable(
+      d1$sugar
+    , d1$cola
+    , prop.chisq = FALSE
+) |>
+pander()
+```
+
+1. If the proportions in the contingency table represented probabilities, would drink preference and sugar preference be independent?
+
+2. Is a preference for Cola positively or negatively or not associated with a preference for regular sugar?
+
+3. Consider the population of individuals who suffer from migraine headaches.
+
+|  | Fewer than 3 migraines per month | 3 or more migraines per month |
+|---|---|---|
+| Less toxic treatment | .4 | .1 |
+| More toxic treatment | .3 | .2 |
+
+What can you conclude from this data about the effectiveness of the more toxic treatment? (Hint: Section 4.7) 
+
+### Submission instructions
+
+1.  Within your course repo, create a folder called `HW05`
+1.  Within the folder, create an .rmd script and .md report with your solutions.
+1.  Be prepared to share your solutions with the class when the deliverable is due
+1.  The deliverable should be your own work.  You may **discuss**
+    concepts with classmates, and you may **share** code or text.
