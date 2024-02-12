@@ -14,14 +14,14 @@ will use in the following problems.
         , d1$cola
         , prop.chisq = FALSE
     ) |>
-    pander()
+    pander(split.table=Inf)
 
 <table>
-<caption>Table continues below</caption>
 <colgroup>
-<col style="width: 39%" />
-<col style="width: 36%" />
-<col style="width: 23%" />
+<col style="width: 33%" />
+<col style="width: 31%" />
+<col style="width: 19%" />
+<col style="width: 16%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -31,6 +31,8 @@ d1$sugar</th>
 Cola (Coke, Pepsi, etc.)</th>
 <th style="text-align: center;"> <br />
 Something else</th>
+<th style="text-align: center;"> <br />
+Total</th>
 </tr>
 </thead>
 <tbody>
@@ -51,6 +53,11 @@ Total(%)</td>
 75.0000%<br />
 65.2174%<br />
 45.4545%</td>
+<td style="text-align: center;"> <br />
+40<br />
+60.6061%<br />
+<br />
+</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><strong>Zero sugar or
@@ -69,6 +76,11 @@ Total(%)</td>
 61.5385%<br />
 34.7826%<br />
 24.2424%</td>
+<td style="text-align: center;"> <br />
+26<br />
+39.3939%<br />
+<br />
+</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">Total<br />
@@ -77,38 +89,6 @@ Total(%)</td>
 30.303%</td>
 <td style="text-align: center;">46<br />
 69.697%</td>
-</tr>
-</tbody>
-</table>
-
-Table continues below
-
-<table style="width:19%;">
-<colgroup>
-<col style="width: 19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;"> <br />
-Total</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"> <br />
-40<br />
-60.6061%<br />
-<br />
-</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"> <br />
-26<br />
-39.3939%<br />
-<br />
-</td>
-</tr>
-<tr class="odd">
 <td style="text-align: center;">66<br />
 </td>
 </tr>

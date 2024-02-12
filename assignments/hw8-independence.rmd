@@ -19,7 +19,7 @@ descr::CrossTable(
     , d1$cola
     , prop.chisq = FALSE
 ) |>
-pander()
+pander(split.table=Inf)
 ```
 
 1. If the proportions in the contingency table represented probabilities, would drink preference and sugar preference be independent?
