@@ -209,6 +209,14 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
             * What assumptions did we make?
         * R solution
 
+## Feb 16
+* Exam
+
+## Feb 19
+* Review exam
+
+## Feb 21
+* Roulette
         
 
 
