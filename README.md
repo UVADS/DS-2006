@@ -165,7 +165,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | 19<br>Read/Watch [Deliverable 1](https://github.com/UVADS/DS-2006/blob/main/deliverables/deliverable1-roulette.md)<br>DUE: [HW5](https://github.com/UVADS/DS-2006/blob/main/assignments/hw5-calculus-of-belief.md) Resubmission | | 21<br>Work on  [Deliverable 1](https://github.com/UVADS/DS-2006/blob/main/deliverables/deliverable1-roulette.md) | | 23<br>DUE [Deliverable 1](https://github.com/UVADS/DS-2006/blob/main/deliverables/deliverable1-roulette.md)<br>[HW6](https://github.com/UVADS/DS-2006/blob/main/assignments/hw6-birthday-problem.md) Resubmission |
 | 26<br>&nbsp; | | 28<br>DUE: [HW9](https://github.com/UVADS/DS-2006/blob/main/assignments/hw9-basic-rules.md) | | Mar<br>DUE: [HW10](https://github.com/UVADS/DS-2006/blob/main/assignments/hw10-bayes-rules.md) |
 | 4<br>Spring break | | 6<br>Spring break | | 8<br>Spring break |
-| 11<br>In class: [Deliverable 2](https://github.com/UVADS/DS-2006/blob/main/assignments/deliverable2-simulation-error.md) | | 13<br>DUE: [Deliverable 2](https://github.com/UVADS/DS-2006/blob/main/assignments/deliverable2-simulation-error.md) | | 15<br> |
+| 11<br>In class: [Deliverable 2](https://github.com/UVADS/DS-2006/blob/main/deliverables/deliverable2-simulation-error.md) | | 13<br>DUE: [Deliverable 2](https://github.com/UVADS/DS-2006/blob/main/deliverables/deliverable2-simulation-error.md) | | 15<br> |
 | 18<br>&nbsp; | | 20<br>&nbsp; | | 22<br>&nbsp; |
 | 25<br>&nbsp; | | 27<br>Exam review&nbsp; | | 29<br><details><summary>Exam</summary>Details TBD</details> |
 | Apr<br>&nbsp; | | 3<br>&nbsp; | | 5<br>&nbsp; |
