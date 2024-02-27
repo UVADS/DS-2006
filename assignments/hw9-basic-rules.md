@@ -20,7 +20,7 @@ Use the basic rules of probability to answer questions 1 - 4.
 1. What is the probability that team A will win supposing the series ends in 6 games?
 1. What is the probability that team B wins the series or that the series will end after an even number of games?
 1. What is the probability the series will end in 5 or fewer games supposing that A wins the series?
-1. In section 5.4, the author provides an analytic solution to the birthday problem.  Calculate the shared birthday probability analytically for a class of size 11.  How does the value compare with the solution you generated computationally in hw6?
+1. In section 5.5, the author provides an analytic solution to the birthday problem.  Calculate the shared birthday probability analytically for a class of size 11.  How does the value compare with the solution you generated computationally in hw6?  (Copy/run your code from HW6 to empirically compute the solution.)
 
 ### Submission instructions
 
