@@ -92,7 +92,7 @@ pa <- 0.03+0.08+0.11+0.13 #margin
 In the author's solution, the compliment and multiplication rules were applied. Here is the formula: 
 
 $$
-P(\text{At least one shared birthday in class roster of size } k) = 1 - \frac{365!}{(365-k)! \ 365^k}.
+P(\text{At least one shared birthday in class roster of size } k) = 1 - \frac{365!}{(365-k)! \, 365^k}.
 $$
 
 As noted in class, we want to reexpress the formula because our laptops cannot compute 365!.

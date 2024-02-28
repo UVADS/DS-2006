@@ -232,7 +232,7 @@ In the author’s solution, the compliment and multiplication rules were
 applied. Here is the formula:
 
 $$
-P(\text{At least one shared birthday in class roster of size } k) = 1 - \frac{365!}{(365-k)! \\365^k}.
+P(\text{At least one shared birthday in class roster of size } k) = 1 - \frac{365!}{(365-k)! \\ 365^k}.
 $$
 
 As noted in class, we want to reexpress the formula because our laptops
@@ -268,4 +268,4 @@ HW6:
 
 ![](hw9-solution_files/figure-markdown_strict/unnamed-chunk-6-1.png)
 
-The simulation error for a class of size 11 is 0.0010586.
+The simulation error for a class of size 11 is 0.0038414.
