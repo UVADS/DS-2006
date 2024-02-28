@@ -1,7 +1,7 @@
 Basic rules
 ========
 
-Please read section 5.1 through 5.5 of Understanding Probability.
+Please read section 5.1 through 5.5 of Understanding Uncertainty.
 
 Consider a sporting competition between team A and B.  The teams play a series of games, only stopping when one of the teams wins 4 games.  As there are no ties, so the series will end after 4, 5, 6, or 7 games.
 

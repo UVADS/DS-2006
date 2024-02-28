@@ -1,7 +1,7 @@
 Bayes Rule
 ========
 
-Please read sections 6.1 through 6.4 of Understanding Probability.
+Please read sections 6.1 through 6.4 of Understanding Uncertainty.
 
 Suppose you could randomly sample words (with replacement) from the English language.  Let the probability that a word is selected correspond to the word's popularity in English literature.  (For example, words *the* and *to* are very likely to be selected whereas words like *indubitably* and *hullaballoo* are less likely.)  Rather than recording the word, imagine recording the first vowel (a, e, i, o, u, and sometimes y) and its location in the word.  So, if *cr**o**mulent* were selected, then (3, o) would be recorded.
 
