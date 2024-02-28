@@ -1,0 +1,131 @@
+---
+title: "HW 9 Solutions"
+output: md_document
+---
+
+Please read section 5.1 through 5.5 of Understanding Probability.
+
+Consider a sporting competition between team A and B.  The teams play a series of games, only stopping when one of the teams wins 4 games.  As there are no ties, so the series will end after 4, 5, 6, or 7 games.
+
+The table below reports the joint probabilities for the number of games played (N = 4,5,6, or 7) and the winning team (W = A or B)
+ 
+| | A | B |
+|---|---|---|
+|4|0.03|0.11|
+|5|0.08|0.18|
+|6|0.11|0.19|
+|7|0.13|0.17|
+
+Use the basic rules of probability to answer questions 1 - 4.
+
+1. What is the probability that the series ends in 5 or 6 games?
+
+The series ending in 5 or 6 games corresponds to the bolded cells below.  The probability of ending in 5 or 6 games is the sum of the cell probabilities.
+
+| | A | B |
+|---|---|---|
+|4|0.03|0.11|
+|5|**0.08**|**0.18**|
+|6|**0.11**|**0.19**|
+|7|0.13|0.17|
+
+```{r}
+0.08 + 0.18 + 0.11 + 0.19
+```
+
+2. What is the probability that team A will win supposing the series ends in 6 games?
+
+The probability in question is a conditional (row) probability
+$$P(\text{A wins}|\text{ends in 6 games})$$
+
+| | A | B | |
+|---|---|---|---|
+|4|0.03|0.11| |
+|5|0.08|0.18| |
+|6|0.11|0.19| 0.3 |
+|row|**0.11/0.3**|0.19/0.3| |
+|7|0.13|0.17| |
+
+```{r}
+0.11/(0.11+0.19)
+```
+
+
+3. What is the probability that team B wins the series or that the series will end after an even number of games?
+
+The event in question corresponds to the bolded cells below.  The probability is calculated by summing the bolded cell probabilities.  We can also use the complement rule.
+
+| | A | B |
+|---|---|---|
+|4|**0.03**|**0.11**|
+|5|0.08|**0.18**|
+|6|**0.11**|**0.19**|
+|7|0.13|**0.17**|
+
+```{r}
+#complement rule
+1-0.08-0.13
+```
+
+4. What is the probability the series will end in 5 or fewer games supposing that A wins the series?
+
+This is a conditional probability.
+
+$$P(\text{ends in 4 or 5 games} | \text{A wins})$$
+
+| | A |
+|---|---|
+|4|**0.03**|
+|5|**0.08**|
+|6|*0.11*|
+|7|*0.13*|
+
+Considering only the A wins column the probability is the sum of the bolded cells divided by the marginal probability.
+
+```{r}
+pa <- 0.03+0.08+0.11+0.13 #margin
+(0.03+0.08)/pa
+```
+
+5. In section 5.5, the author provides an analytic solution to the birthday problem.  Calculate the shared birthday probability analytically for a class of size 11.  How does the value compare with the solution you generated computationally in hw6?  (Copy/run your code from HW6 to empirically compute the solution.)
+
+In the author's solution, the compliment and multiplication rules were applied. Here is the formula: 
+
+$$
+P(\text{At least one shared birthday in class roster of size } k) = 1 - \frac{365!}{(365-k)! \ 365^k}.
+$$
+
+As noted in class, we want to reexpress the formula because our laptops cannot compute 365!.
+
+$$
+P(\text{At least one shared birthday in class roster of size } k) = 1 - \exp\{ \log(365!) - \log((365-k)!) - k \log(365)\}.
+$$
+
+In R, the command for log of the factorial is `lfactorial`.
+
+```{r}
+birthday_prob <- function(k) 1 - exp(lfactorial(365) - lfactorial(365-k) - k*log(365))
+birthday_prob(11)
+```
+
+We can compare our analytic solution to the simulation solution from HW6:
+
+```{r}
+first_duplicate <- function(){
+    sample(1:365, 366, replace=TRUE) |>
+    duplicated() |>
+    which() |>
+    min()
+}
+
+R <- 10000
+fd1 <- replicate(R, first_duplicate())
+plot(ecdf(fd1), main = "Probability of shared birthday", xlab = "Class size")
+
+class_sizes <- 1:80
+analytic_birthday_prob <- birthday_prob(class_sizes)
+lines(class_sizes, analytic_birthday_prob, col = "red", lwd = 3)
+legend("topleft", legend = c("Simulation","Analytic"), col = c("black","red"), lwd = 3, bty = "n")
+```
+
+The simulation error for a class of size 11 is `r abs(ecdf(fd1)(11) - birthday_prob(11))`.
