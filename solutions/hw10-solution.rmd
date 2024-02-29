@@ -1,0 +1,121 @@
+---
+title: "HW 10 Solution"
+output: md_document
+---
+
+Bayes Rule
+========
+
+Please read sections 6.1 through 6.4 of Understanding Uncertainty.
+
+Suppose you could randomly sample words (with replacement) from the English language.  Let the probability that a word is selected correspond to the word's popularity in English literature.  (For example, words *the* and *to* are very likely to be selected whereas words like *indubitably* and *hullaballoo* are less likely.)  Rather than recording the word, imagine recording the first vowel (a, e, i, o, u, and sometimes y) and its location in the word.  So, if *cr**o**mulent* were selected, then (3, o) would be recorded.
+
+The `mystery` function, available by executing the following command, will generate draws from the process described above.
+
+```{r}
+source("https://tgstewart.cloud/mystery.R")
+```
+
+The mystery function takes a single input, which is the number of draws to generate from the process.  For example: 
+
+```
+> mystery(12)
+   location vowel
+1         2     u
+2         1     a
+3         2     e
+4         1     i
+5         2     a
+6         2     a
+7         1     a
+8         2     e
+9         2     a
+10        2     o
+11        2     e
+12        2     o
+```
+
+Please note that some words do not have vowels, in which case (Inf, NA) is returned.
+
+Use this function to answer the following questions.  Your specific numerical answer is not as important as the strategy you use to solve the problem.  Show your strategy.
+
+> (Option 1) The following table can be used to answer the following questions.
+```{r}
+require(dplyr)
+set.seed(223589213)
+d1 <- mystery(10000000) |> mutate(vowel = ifelse(is.na(vowel), "zMissing",vowel))
+descr::CrossTable(
+      d1$location
+    , d1$vowel
+    , prop.chisq = FALSE
+)
+```
+
+1. If *y* is the first vowel in a word, what is the probability that it will occur in the third position, like the word *why*?
+
+> (Option 1) From the table, P(3|y) = 0.100.
+
+> (Option 2)
+
+```{r}
+mystery(100000) |>
+  filter(vowel == "y") %>% 
+  mutate(event = 1*(location %in% 3)) %>% 
+  pull(event) %>% 
+  mean
+```
+
+1. Which vowel is most likely to start a word?
+
+> (Option 1) From the conditional row probabilities in the table: P(a|1) = 0.39, which is the highest in the row.
+
+> (Option 2)
+
+```{r}
+mystery(100000) |>
+  filter(location == 1) |>
+  pull(vowel) |>
+  table() |>
+  proportions()
+```
+
+1. Suppose a randomly selected word's first vowel is in the fourth position.  Which vowel is most likely to be first?
+
+> (Option 1) From the conditional row probabilities, P(e|4) = 0.356, which is the highest in the row.
+
+> (Option 2)
+
+```{r}
+mystery(100000) |>
+  filter(location == 4) |>
+  pull(vowel) |>
+  table() |>
+  proportions()
+```
+
+1. What is the probability that a randomly selected word does not have vowels (a,e,i,o,u, and sometimes y)?
+
+> (Option 1) From the margin of the table, P(Inf) = P(Missing vowel) = 0.027
+
+> (Option 2)
+
+```{r}
+mystery(100000) |> 
+  mutate(event = is.na(vowel)) |>
+  pull(event) |>
+  mean()
+```
+
+1. Are first vowels more likely to be in an odd or even position?
+
+> (Option 1) From the margin of the table, P(odd) = `r (2674997 + 1721910 + 29459 + 546 + 94)/10000000`
+
+> (Option 2) 
+
+```{r}
+mystery(100000) |> 
+  mutate(event = location%%2) |>
+  pull(event) |>
+  table(useNA = "always") |>
+  proportions()
+```
