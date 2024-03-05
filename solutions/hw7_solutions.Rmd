@@ -1,0 +1,55 @@
+---
+title: "DS 2006 HW 7 Solutions"
+date: "2024-03-04"
+output: pdf_document
+---
+
+### 1. Create a table of counts and proportions for the cola variable. Report counts with proportions in parentheses, for example 23 (0.39). (This is what is meant by N (p).)
+
+```{r}
+
+survey_data <- read.csv('https://tgstewart.cloud/soda.csv')
+
+table(survey_data)
+
+```
+
+| Colas                             | No Colas                           |
+|-----------------------------------|------------------------------------|
+| 20 ($\frac{20}{66} = 0.\bar{30}$) | 46 ($\frac{46}{66} = 0.\bar{69}$ ) |
+
+### 2. Create a similar table for the sugar preference variable.
+
+| Regular                           | Zero Sugar                        |
+|-----------------------------------|-----------------------------------|
+| 40 ($\frac{40}{66} = 0.\bar{60}$) | 26 ($\frac{26}{66} = 0.\bar{39}$) |
+
+### 3. Use the data to generate a contingency table of counts and proportions.
+
+|          | Colas                             | Not Colas                         |
+|-------------------|---------------------------|---------------------------|
+| Regular  | 10 ($\frac{10}{66} = 0.\bar{15}$) | 30 ($\frac{30}{66} = 0.\bar{45}$) |
+| No Sugar | 10 ($\frac{10}{66} = 0.\bar{15}$) | 16 ($\frac{16}{66} = 0.\bar{24}$) |
+
+### 4. Add to the table conditional column and row proportions and counts. With sugar preferences on the rows, the conditional row proportions are P(Drink \| Sugar). Likewise, with drink preferences on the columns, conditional column proportions are P(Sugar \| Drink).
+
+|               | Colas                             | Not Colas                         |
+|------------------------------|-------------------|-----------------------|
+| Regular       | 10 ($\frac{10}{66} = 0.\bar{15}$) | 30 ($\frac{30}{66} = 0.\bar{45}$) |
+|     Row       | 10 ($\frac{10}{40} = 0.25$)       | 30 ($\frac{30}{40} = .75$)        |
+|     Col       | 10 ($\frac{10}{20} = 0.5$)        | 30 ($\frac{30}{46} = 0.6521$)     |
+| No Sugar/Diet | 10 ($\frac{10}{66} = 0.\bar{15}$) | 16 ($\frac{16}{66} = 0.\bar{24}$) |
+|     Row       | 10 ($\frac{10}{26} = 0.3846$)     | 16 ($\frac{16}{26} = 0.6154$)     |
+|     Col       | 10 ($\frac{10}{20} = 0.5$)        | 16 ($\frac{16}{46} = 0.3478$)     |
+
+### 5. Add marginal proportions and counts.
+
+|               | Colas                             | Not Colas                         | Total                             |
+|-----------------------|-----------------|-----------------|-----------------|
+| Regular       | 10 ($\frac{10}{66} = 0.\bar{15}$) | 30 ($\frac{30}{66} = 0.\bar{45}$) | 40 ($\frac{40}{66} = 0.\bar{60}$) |
+|     Row       | 10 ($\frac{10}{40} = 0.25$)       | 30 ($\frac{30}{40} = .75$)        |                                   |
+|     Col       | 10 ($\frac{10}{20} = 0.5$)        | 30 ($\frac{30}{46} = 0.6521$)     |                                   |
+| No Sugar/Diet | 10 ($\frac{10}{66} = 0.\bar{15}$) | 16 ($\frac{16}{66} = 0.\bar{24}$) | 26 ($\frac{26}{66} = 0.\bar{39}$) |
+|     Row       | 10 ($\frac{10}{26} = 0.3846$)     | 16 ($\frac{16}{26} = 0.6154$)     |                                   |
+|     Col       | 10 ($\frac{10}{20} = 0.5$)        | 16 ($\frac{16}{46} = 0.3478$)     |                                   |
+| Total         | 20 ($\frac{20}{66} = 0.\bar{30}$) | 46 ($\frac{46}{66} = 0.\bar{69}$) | 66 (1)                                 |
