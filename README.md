@@ -166,7 +166,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | 26<br>&nbsp; | | 28<br>DUE: [HW9](https://github.com/UVADS/DS-2006/blob/main/assignments/hw9-basic-rules.md) | | Mar<br>DUE: [HW10](https://github.com/UVADS/DS-2006/blob/main/assignments/hw10-bayes-rule.md)<br>[Diagnostics](https://tgstewart.cloud/diagnostics.pptx) |
 | 4<br>Spring break | | 6<br>Spring break | | 8<br>Spring break |
 | 11<br>In class: [Deliverable 2](https://github.com/UVADS/DS-2006/blob/main/deliverables/deliverable2-simulation-error.md) | | 13<br>&nbsp; | 14<br>DUE: [Deliverable 2](https://github.com/UVADS/DS-2006/blob/main/deliverables/deliverable2-simulation-error.md) | 15<br>&nbsp; |
-| 18<br>DUE: [HW11](https://github.com/UVADS/DS-2006/blob/main/assignments/hw11-diagnostic.odds.md)<br> DUE: [HW 7 Resubmission](https://github.com/UVADS/DS-2006/blob/main/assignments/hw7-two-events.md) | | 20<br> DUE: [HW 8 Resubmission](https://github.com/UVADS/DS-2006/blob/main/assignments/hw8-independence.md) | | 22<br>&nbsp; |
+| 18<br>DUE: [HW11](https://github.com/UVADS/DS-2006/blob/main/assignments/hw11-diagnostic-odds.md)<br> DUE: [HW 7 Resubmission](https://github.com/UVADS/DS-2006/blob/main/assignments/hw7-two-events.md) | | 20<br> DUE: [HW 8 Resubmission](https://github.com/UVADS/DS-2006/blob/main/assignments/hw8-independence.md) | | 22<br>&nbsp; |
 | 25<br>&nbsp; | | 27<br>Exam review&nbsp; | | 29<br><details><summary>Exam</summary>Details TBD</details> |
 | Apr<br>&nbsp; | | 3<br>&nbsp; | | 5<br>&nbsp; |
 | 8<br>&nbsp; | | 10<br>&nbsp; | | 12<br>&nbsp; |
