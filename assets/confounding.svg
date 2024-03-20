@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2.8709519in"
+   height="1.1445829in"
+   viewBox="0 0 72.922177 29.072405"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="confounding.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.7817059"
+     inkscape:cx="172.30677"
+     inkscape:cy="79.137638"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker11"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path11" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Stylized triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path10" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Stylized triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Stylized triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17" />
+    </marker>
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CentripetalCatmullRom"
+       interpolator_beta="0.75"
+       start_linecap_type="round"
+       end_linecap_type="round"
+       offset_points="36.73747,1.5750804"
+       linejoin_type="spiro"
+       miter_limit="4"
+       not_jump="true"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="0.012"
+       steps="1"
+       smooth_angles="0"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       step="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.82910369,-15.234756)">
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.2;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.500999"
+       x="34.021736"
+       y="44.207253"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.501"
+         x="34.021736"
+         y="44.207253">Sex</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.2;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.500999"
+       x="17.220879"
+       y="20.843376"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.501"
+         x="17.220879"
+         y="20.843376">Treatment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.2;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.500999"
+       x="59.324936"
+       y="20.12335"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.501"
+         x="59.324936"
+         y="20.12335">Recovery</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.501;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#ArrowTriangleStylized)"
+       d="M 33.286697,37.171897 23.941221,25.09628"
+       id="path4" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.500999;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7);marker-end:url(#marker8)"
+       d="M 33.286698,37.276902 45.047297,23.941221"
+       id="path6" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.500999;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker11);marker-end:url(#marker10)"
+       d="m 35.445174,18.443865 h 7.245371"
+       id="path9" />
+  </g>
+</svg>
