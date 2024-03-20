@@ -1,7 +1,7 @@
 Data types
 ========
 
-Please review the slides about [data types](https://tgstewart.cloud/data-types.pptx).
+Please review the slides about [data types](https://tgstewart.cloud/01-data-types.pptx).
 
 1. Please find a publicly available dataset (or create one of your own) that includes nominal, ordinal, interval, ratio, and binary variables.  Put the dataset in .csv format.  (You can delete any columns that you aren't using.)
 
