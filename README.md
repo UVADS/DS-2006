@@ -171,7 +171,7 @@ Homeworks, deliverables, reading assignments, and exams will be posted on the co
 | Apr<br>[In class code (Prob tom)](https://tgstewart.cloud/prob-tom.R)<br>[Bernoulli (Binomial)](https://tgstewart.cloud/05-binomial-prob.html)<br>[Hands/Sequences](https://tgstewart.cloud/hands-and-sequences.pptx) | | 3<br>&nbsp; | | 5<br>[Bernoulli sequences](https://tgstewart.cloud/bernoulli-sequences.pptx) |
 | 8<br> DUE: [HW 12 Resubmission](https://github.com/UVADS/DS-2006/blob/main/assignments/hw12-data-types.md)| | 10<br>DUE: [Deliverable 1 Resubmission](https://github.com/UVADS/DS-2006/blob/main/deliverables/deliverable1-roulette.md) <br>&nbsp; | | 12<br> DUE: [HW 14](https://github.com/UVADS/DS-2006/blob/main/assignments/hw14-world-series-distribution.md)&nbsp; |
 | 15<br> DUE: [HW 11 Resubmission](https://github.com/UVADS/DS-2006/blob/main/assignments/hw11-diagnostic-odds.md) | | 17<br>&nbsp; | | 19<br>&nbsp; |
-| 22<br>&nbsp; | | 24<br>&nbsp; | | 26<br>&nbsp; |
+| 22<br> DUE: [Deliverable 2 Resubmission](https://github.com/UVADS/DS-2006/blob/main/deliverables/deliverable2-simulation-error.md) | | 24<br>&nbsp; | | 26<br>&nbsp; |
 | 29<br>Last class<br>Exam review | | May<br>&nbsp; | | 3<br>&nbsp; |
 | 6<br>&nbsp; | | 8<br>&nbsp;  | 9<br>Final exam|  |
 
