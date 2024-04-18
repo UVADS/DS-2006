@@ -8,7 +8,7 @@ Please complete the following problems.
 
 1. Let X be the number of students who complete a difficult PhD program in a cohort of 29 students.  Generate a plot of the probability mass function and cumulative probability function for X.  Let $p = 0.7$, as in the previous problem.
 
-1. Suppose $p$ was unknown and needed to be estimated from data.  Suppose 22 completed in a cohort of 29.  Estimate $p$ with maximum likelihood.  Generate a 1/20 support interval.  This may help: [link](assignments\hw15a-maximum-likelihood.md)
+1. Suppose $p$ was unknown and needed to be estimated from data.  Suppose 22 completed in a cohort of 29.  Estimate $p$ with maximum likelihood.  Generate a 1/20 support interval.  This may help: [link](hw15a-maximum-likelihood.md)
 
 1. Suppose $p$ was unknown and needed to be estimated from data.  Suppose 22 completed in a cohort of 29.  Estimate $p$ was a Bayesian Posterior.  Generate a 0.95 credible interval.  This may help: [link](hw15b-bayesian-posterior.md)
 
