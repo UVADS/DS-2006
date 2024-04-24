@@ -11,6 +11,11 @@ FAMILIES: Normal, gamma, Weibull
 
 1. With your estimated model, calculate the probability that the laptop battery will last more than 10 hours.
 
+1. Estimate a probability model for battery cycle length using method of moments, maximum likelihood, and Bayesian updating.  From each model, calculate the probability that the laptop battery will last more than 10 hours.
+
+
+
+
 
 ### Submission instructions
 
